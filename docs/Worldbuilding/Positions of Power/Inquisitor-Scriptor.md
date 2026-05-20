@@ -27,9 +27,9 @@ At least, that is the theory.
 
 ## Place within The Scriptor Compact
 
-The office of Inquisitor-Scriptor exists within the wider structure of [[The Scriptor Compact]].
+The office of Inquisitor-Scriptor exists within the wider structure of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
-Under the Compact, recognised heads of churches across [[Arkhaven]] are often assigned an elven mage-advisor, usually trained over centuries in theology, law, history, language, ritual practice, and arcane theory. These advisors serve as living archives and independent witnesses. They are not necessarily believers in the faith they serve, and in many cases their value comes from that distance.
+Under the Compact, recognised heads of churches across [Arkhaven](../Locations/Continents/Arkhaven.md) are often assigned an elven mage-advisor, usually trained over centuries in theology, law, history, language, ritual practice, and arcane theory. These advisors serve as living archives and independent witnesses. They are not necessarily believers in the faith they serve, and in many cases their value comes from that distance.
 
 The Inquisitor-Scriptor is a more severe development of this same tradition.
 
@@ -41,13 +41,13 @@ Because of this, the presence of an Inquisitor-Scriptor says something important
 
 ## Origins
 
-The office was shaped by the aftermath of [[War of the False Saints]].
+The office was shaped by the aftermath of [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 During that age, false miracles, staged visions, forged relics, altered scripture, and manufactured saints pulled churches and kingdoms into violence. Some frauds were obvious in hindsight. Others were sophisticated enough to fool priests, rulers, armies, and common folk alike.
 
 Illusion magic, enchantment, forged records, manipulated prophecy, and political ambition all played their part. The worst lesson of the war was not that people stopped believing in the gods. It was that belief itself could be turned into a weapon.
 
-After the war, many religious authorities accepted that they needed trained witnesses capable of recognising deception. The elves, already valued for their long lives and preserved records after [[The Green Silence]], became central to this answer. Their mage-scribes could compare doctrine across centuries, detect magical manipulation, inspect relics, and recognise when a miracle was being used to manufacture obedience.
+After the war, many religious authorities accepted that they needed trained witnesses capable of recognising deception. The elves, already valued for their long lives and preserved records after [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md), became central to this answer. Their mage-scribes could compare doctrine across centuries, detect magical manipulation, inspect relics, and recognise when a miracle was being used to manufacture obedience.
 
 From this need came the harsher branch of the Scriptor office.
 
@@ -75,7 +75,7 @@ Where a church is powerful, its inquisitors may act with the support of rulers, 
 
 Where secular power is stronger, the inquisitor’s authority may be tightly restricted. They may need permission from local rulers before making arrests or entering private property. A Scriptor in such a region may rely more on persuasion, diplomacy, and reputation than force.
 
-Border regions, disputed temples, and lands near [[The Godscar]] are especially complicated. The Godscar attracts pilgrims, prophets, relic-hunters, cults, and rival churches. Where several faiths claim authority over the same sacred place, an Inquisitor-Scriptor may find their legal power challenged at every step.
+Border regions, disputed temples, and lands near [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) are especially complicated. The Godscar attracts pilgrims, prophets, relic-hunters, cults, and rival churches. Where several faiths claim authority over the same sacred place, an Inquisitor-Scriptor may find their legal power challenged at every step.
 
 This makes them useful figures for political tension. They are not merely religious agents. They are moving points of conflict between faith, law, magic, and state power.
 
@@ -159,11 +159,11 @@ The office is built on trust, but it survives on tension.
 
 ## Relationship with The Elves
 
-Most Inquisitor-Scriptors are of [[Elves|elven heritage]] and trained in the south-western forest academies tied to [[The Green Silence]].
+Most Inquisitor-Scriptors are of [elven heritage](../Races/Elves.md) and trained in the south-western forest academies tied to [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md).
 
 Among the elves, the office is controversial. Many accept the need for Scriptors, but are less comfortable with inquisitors. A Scriptor is a witness. An inquisitor is an actor. A Scriptor preserves memory. An inquisitor may shape events before they are remembered.
 
-Some elven houses consider inquisitorial service a regrettable necessity after [[War of the False Saints]]. Others believe it violates the proper duty of the Scriptor, turning a keeper of truth into a church’s blade.
+Some elven houses consider inquisitorial service a regrettable necessity after [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md). Others believe it violates the proper duty of the Scriptor, turning a keeper of truth into a church’s blade.
 
 Because of this, Inquisitor-Scriptors may be respected in public but watched closely by their own people. Their reports may be reviewed. Their methods may be questioned. A church that pushes its inquisitor too far may find the elven houses unwilling to provide another.
 
@@ -189,7 +189,7 @@ The Godscar is one of the most common places for Inquisitor-Scriptors to become 
 
 The scar attracts claims of revelation. Pilgrims see visions. Hermits hear voices. Relics are found in drowned ruins. Prophets emerge from isolated shrines. Churches argue over whose doctrine best explains the wound in the world.
 
-Because the true origin of [[The Godscar]] is uncertain to almost everyone, it is fertile ground for false certainty.
+Because the true origin of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) is uncertain to almost everyone, it is fertile ground for false certainty.
 
 An Inquisitor-Scriptor assigned near the Godscar may investigate miracles, relic markets, pilgrim cults, doomsday sects, disputed crossings, sacred murders, or claims that the scar is opening again.
 
@@ -201,7 +201,7 @@ That is exactly why inquisitors are sent there.
 
 ## Relationship with War of the False Saints
 
-The office of Inquisitor-Scriptor cannot be separated from [[War of the False Saints]].
+The office of Inquisitor-Scriptor cannot be separated from [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 That war is the wound from which the office grew. Every training hall, every legal authority, every relic inspection, every suspicion of staged miracles comes back to that history.
 
@@ -272,8 +272,8 @@ A player character might be:
 - An illusionist trained to expose false saints
 - A Scriptor forced into inquisitorial duties by a militant faith
 - A convert whose faith now conflicts with elven detachment
-- An investigator of relic fraud near [[The Godscar]]
-- A runaway from the elven academies of [[The Green Silence]]
+- An investigator of relic fraud near [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md)
+- A runaway from the elven academies of [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md)
 - A loyal servant of the Compact who suspects the Compact itself has hidden something
 
 The key is to avoid making the character a simple religious police officer. The role is more interesting when it carries doubt, duty, restraint, and moral cost.
@@ -286,9 +286,9 @@ A village hides a saint the main church has condemned as false.
 
 A church head orders an inquisitor to suppress a doctrine the inquisitor believes may be true.
 
-A relic found near [[The Godscar]] produces signs that resemble known illusion magic.
+A relic found near [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) produces signs that resemble known illusion magic.
 
-An Inquisitor-Scriptor disappears while investigating a shrine tied to [[War of the False Saints]].
+An Inquisitor-Scriptor disappears while investigating a shrine tied to [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 A Scriptor archive from the south-western forests contains a sealed report that contradicts modern doctrine.
 
@@ -308,7 +308,7 @@ A player character is asked to serve as witness during an interrogation.
 
 An Inquisitor-Scriptor should not be treated as automatically good or evil.
 
-The office exists for understandable reasons. Arkhaven has already suffered through false miracles, religious fraud, forged saints, and holy violence. A society that remembers [[War of the False Saints]] would naturally fear unchecked prophecy and unverified miracles.
+The office exists for understandable reasons. Arkhaven has already suffered through false miracles, religious fraud, forged saints, and holy violence. A society that remembers [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) would naturally fear unchecked prophecy and unverified miracles.
 
 But the office is dangerous by design.
 

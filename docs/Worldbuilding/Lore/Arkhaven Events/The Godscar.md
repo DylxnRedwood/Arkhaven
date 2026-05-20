@@ -14,7 +14,7 @@ tags:
 
 #lore #cataclysm #geography #mythology #arkhaven
 
-The **Godscar** is the name given to the vast vertical crevasses that split the land of [[Arkhaven]]. It is not a single canyon, river, lake, or valley, but a chain of deep wounds running through the continent, cutting through plains, forests, mountains, and lowlands alike.
+The **Godscar** is the name given to the vast vertical crevasses that split the land of [Arkhaven](../../Locations/Continents/Arkhaven.md). It is not a single canyon, river, lake, or valley, but a chain of deep wounds running through the continent, cutting through plains, forests, mountains, and lowlands alike.
 
 In some places, the Godscar is a sheer-sided rift filled with dark water. In others, it widens into deep lakes, drowned basins, broken valleys, steep fjords, or jagged cliffs where the land appears to have been torn apart rather than worn away. Rivers spill into it. Roads bend around it. Kingdoms are divided by it. Faiths argue over it.
 
@@ -88,9 +88,9 @@ Some churches avoid the true story because it raises difficult questions. If a g
 
 Other churches have altered the tale to suit their doctrine. Some cast the victorious god as a flawless saviour. Others portray the fallen rival as pure evil. Some omit the defeated god entirely and describe the event as divine judgement against mortals.
 
-The oldest elven records are said to contain versions of the story that do not match modern doctrine. Whether those records still exist, and whether the [[Elves]] would ever permit outsiders to read them, remains uncertain.
+The oldest elven records are said to contain versions of the story that do not match modern doctrine. Whether those records still exist, and whether the [Elves](../../Races/Elves.md) would ever permit outsiders to read them, remains uncertain.
 
-[[The Scriptor Compact]] exists partly because of problems like this. The Godscar is one of the greatest examples of how history, religion, and power become tangled. A single event can become a hundred incompatible truths if enough generations are allowed to argue over it.
+[The Scriptor Compact](The%20Scriptor%20Compact.md) exists partly because of problems like this. The Godscar is one of the greatest examples of how history, religion, and power become tangled. A single event can become a hundred incompatible truths if enough generations are allowed to argue over it.
 
 ## Religious Interpretations
 
@@ -104,31 +104,31 @@ Some fear it as a place of corruption. They teach that the defeated rival's esse
 
 Some refuse to approach it at all. To them, the Godscar is not holy. It is a warning. The gods fought there once, and the land has not healed.
 
-There are even heretical traditions that claim the victorious god was not righteous, or that the fallen rival was not entirely evil. These beliefs are dangerous in lands where the churches hold power. An [[Inquisitor-Scriptor]] assigned to such a region would pay close attention to any sect that speaks too freely about the wound.
+There are even heretical traditions that claim the victorious god was not righteous, or that the fallen rival was not entirely evil. These beliefs are dangerous in lands where the churches hold power. An [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) assigned to such a region would pay close attention to any sect that speaks too freely about the wound.
 
 ## The Godscar and the War of the False Saints
 
 #false_saints #religion #heresy
 
-The [[War of the False Saints]] changed how people spoke about the Godscar.
+The [War of the False Saints](War%20of%20the%20False%20Saints.md) changed how people spoke about the Godscar.
 
 During that age, false prophets and manufactured saints repeatedly claimed visions connected to the scar. Some declared that the Godscar was opening again. Others claimed to hear the voice of the fallen rival beneath the waters. Some used illusions and enchantments to stage miracles along its cliffs, convincing armies and pilgrims that the gods had returned to finish an ancient war.
 
 After the war ended, the churches became far more careful about miracles associated with the Godscar. A vision seen beside the scar is now treated with both reverence and suspicion. A relic found near it may be holy, forged, cursed, or planted. A prophet emerging from its depths is as likely to be imprisoned as worshipped.
 
-For [[The Scriptor Compact]], the Godscar remains one of the most sensitive subjects in all religious record-keeping. Too many doctrines depend on it. Too many rulers want to control its meaning.
+For [The Scriptor Compact](The%20Scriptor%20Compact.md), the Godscar remains one of the most sensitive subjects in all religious record-keeping. Too many doctrines depend on it. Too many rulers want to control its meaning.
 
 ## The Godscar and the Green Silence
 
 #green_silence #elves #ancient_history
 
-[[The Green Silence]] is not usually treated as part of the same event as the Godscar, but older scholars often compare them.
+[The Green Silence](The%20Green%20Silence.md) is not usually treated as part of the same event as the Godscar, but older scholars often compare them.
 
 Both are wounds in memory. Both changed the shape of Arkhaven. Both are surrounded by contradiction, silence, and religious interpretation.
 
 Where the Godscar split the land open, the Green Silence swallowed land closed.
 
-This contrast matters deeply to the [[Elves]]. Their oldest teachers sometimes describe the Godscar as an act of force and the Green Silence as an act of concealment. One exposed the broken bones of the world. The other buried what should not be seen.
+This contrast matters deeply to the [Elves](../../Races/Elves.md). Their oldest teachers sometimes describe the Godscar as an act of force and the Green Silence as an act of concealment. One exposed the broken bones of the world. The other buried what should not be seen.
 
 Some elven Scriptors believe the two events are linked by more than metaphor. They do not claim the Green Silence was caused by the Godscar, but they note that the world changed after divine violence touched the earth. Forests grew strangely. Old roads vanished. Certain records became dangerous. Certain names stopped being spoken.
 

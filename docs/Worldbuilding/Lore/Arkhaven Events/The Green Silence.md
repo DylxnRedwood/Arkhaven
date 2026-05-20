@@ -14,7 +14,7 @@ tags:
 
 #lore #cataclysm #elves #forest #ancient_history #arkhaven
 
-**The Green Silence** is the name given to the ancient event that changed the south-western forests of [[Arkhaven]] forever.
+**The Green Silence** is the name given to the ancient event that changed the south-western forests of [Arkhaven](../../Locations/Continents/Arkhaven.md) forever.
 
 It was not a war in the usual sense. There are no reliable accounts of armies meeting in open battle, no agreed list of kings who fell, and no single ruined capital that can be pointed to as the place where it began. What survives instead are fragments: broken roads vanishing into deep roots, towers half-swallowed by bark, stone arches buried in moss, and old songs that stop before they explain too much.
 
@@ -52,13 +52,13 @@ To common folk, the Green Silence is the story of a forest that swallowed civili
 
 To scholars, it is one of the greatest losses of written history in Arkhaven.
 
-To the [[Elves]], it is something more complicated.
+To the [Elves](../../Races/Elves.md), it is something more complicated.
 
 ## The Elves and the Silence
 
-The Green Silence is inseparable from the history of the [[Elves]].
+The Green Silence is inseparable from the history of the [Elves](../../Races/Elves.md).
 
-Most of the elven mage-scribes who serve under [[The Scriptor Compact]] come from the south-western forests. Their archive-cities, memory houses, observatories, and scriptoria exist within the same region that was transformed by the Silence. This has led to centuries of suspicion.
+Most of the elven mage-scribes who serve under [The Scriptor Compact](The%20Scriptor%20Compact.md) come from the south-western forests. Their archive-cities, memory houses, observatories, and scriptoria exist within the same region that was transformed by the Silence. This has led to centuries of suspicion.
 
 Some believe the elves survived because they understood what was happening before anyone else did.
 
@@ -151,7 +151,7 @@ A church that speaks too confidently about the event may be revealing doctrine r
 
 #godscar #cataclysm
 
-[[The Godscar]] and [[The Green Silence]] are often compared by scholars, especially those concerned with the deep history of Arkhaven.
+[The Godscar](The%20Godscar.md) and [The Green Silence](The%20Green%20Silence.md) are often compared by scholars, especially those concerned with the deep history of Arkhaven.
 
 The Godscar split the land open.
 
@@ -171,13 +171,13 @@ That silence has only made the argument stronger.
 
 #false_saints #religion #scriptors
 
-During the [[War of the False Saints]], the Green Silence became a powerful symbol.
+During the [War of the False Saints](War%20of%20the%20False%20Saints.md), the Green Silence became a powerful symbol.
 
 False prophets claimed to have received visions from within the forest. Forged relics were said to have been recovered from swallowed temples. Some saints were declared to have walked into the deep woods and returned with divine authority. Others claimed that the forest itself had chosen them.
 
 In the chaos of that age, the lack of reliable records made the Green Silence easy to exploit. A preacher could claim almost anything about what had been lost beneath the trees, and few people could prove them wrong.
 
-This is one reason the [[The Scriptor Compact]] became so important. The churches needed trained scholars who could challenge false histories, inspect relics, compare claims against older sources, and identify when myth was being turned into a weapon.
+This is one reason the [The Scriptor Compact](The%20Scriptor%20Compact.md) became so important. The churches needed trained scholars who could challenge false histories, inspect relics, compare claims against older sources, and identify when myth was being turned into a weapon.
 
 For Inquisitor-Scriptors, claims connected to the Green Silence remain dangerous. A miracle from the forest may be real, false, misunderstood, or bait.
 
@@ -185,7 +185,7 @@ For Inquisitor-Scriptors, claims connected to the Green Silence remain dangerous
 
 #scriptor_compact #elves #religion
 
-The Green Silence shaped the need for [[The Scriptor Compact]] in two ways.
+The Green Silence shaped the need for [The Scriptor Compact](The%20Scriptor%20Compact.md) in two ways.
 
 First, it gave the elves unmatched authority over lost history. Their archives survived when many others did not. Their long-lived scholars preserved accounts that human kingdoms had forgotten, altered, or mythologised.
 
@@ -236,9 +236,9 @@ Useful ways to use it include:
 - A reason the south-western forests feel ancient and politically important
 - A source of ruins, lost texts, and buried roads
 - A reason the elves are respected, feared, and suspected
-- A mystery tied to the origins of [[The Scriptor Compact]]
-- A counterpoint to [[The Godscar]]
-- A source of religious claims and false miracles after the [[War of the False Saints]]
+- A mystery tied to the origins of [The Scriptor Compact](The%20Scriptor%20Compact.md)
+- A counterpoint to [The Godscar](The%20Godscar.md)
+- A source of religious claims and false miracles after the [War of the False Saints](War%20of%20the%20False%20Saints.md)
 - A place where history has not been destroyed, only hidden
 
 The Green Silence should not answer questions too quickly. It should create them.

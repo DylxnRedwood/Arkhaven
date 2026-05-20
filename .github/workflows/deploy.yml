@@ -37,12 +37,17 @@ jobs:
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0
 
-      # Step 4: Build MkDocs site
+      # Step 4: Preprocess wiki links to markdown
+      - name: Convert Obsidian wiki links to Markdown
+        run: |
+          python preprocess_wiki_links.py
+
+      # Step 5: Build MkDocs site
       - name: Build MkDocs
         run: |
           mkdocs build --clean --config-file mkdocs.yml
 
-      # Step 5: Deploy built site to GitHub Pages
+      # Step 6: Deploy built site to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

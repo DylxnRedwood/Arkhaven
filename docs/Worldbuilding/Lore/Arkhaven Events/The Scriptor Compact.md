@@ -14,15 +14,15 @@ tags:
 
 #lore #religion #elves #magic #arkhaven
 
-Across [[Arkhaven]], most recognised heads of churches are assigned an elven mage-advisor. These advisors are known formally as **Scriptors**, though their exact title changes between faiths, kingdoms, and languages.
+Across [Arkhaven](../../Locations/Continents/Arkhaven.md), most recognised heads of churches are assigned an elven mage-advisor. These advisors are known formally as **Scriptors**, though their exact title changes between faiths, kingdoms, and languages.
 
 A Scriptor is not simply a secretary, nor are they merely a court wizard in religious robes. They are trained archivists, theologians, legal scholars, ritual witnesses, translators, magical examiners, and keepers of institutional memory. Their purpose is to preserve the continuity of a faith across generations, especially in a world where human lives are short, kingdoms rise and collapse, and holy doctrine is often pulled between belief, ambition, politics, and fear.
 
-Most Scriptors are of [[Elves|elven heritage]], though not always full-blooded elves. What matters is the long life, discipline, and education associated with the old elven academies. The role requires a mind trained over centuries rather than decades. A human priest may serve a church for forty years. A Scriptor may remember six such priests, their reforms, their mistakes, their scandals, and the promises they made before they died.
+Most Scriptors are of [elven heritage](../../Races/Elves.md), though not always full-blooded elves. What matters is the long life, discipline, and education associated with the old elven academies. The role requires a mind trained over centuries rather than decades. A human priest may serve a church for forty years. A Scriptor may remember six such priests, their reforms, their mistakes, their scandals, and the promises they made before they died.
 
 ## Origins of the Office
 
-The tradition began after the great religious disasters of early Arkhaven, especially the [[War of the False Saints]]. During that period, churches and kingdoms were torn apart by false miracles, forged relics, altered scripture, staged visions, and arcane deception disguised as divine will.
+The tradition began after the great religious disasters of early Arkhaven, especially the [War of the False Saints](War%20of%20the%20False%20Saints.md). During that period, churches and kingdoms were torn apart by false miracles, forged relics, altered scripture, staged visions, and arcane deception disguised as divine will.
 
 In the aftermath, the surviving faiths accepted a hard truth: belief alone was not enough to protect a church from corruption. A priest could be devout and still be deceived. A prophet could be sincere and still be manipulated. A miracle could move a crowd and still be false.
 
@@ -36,7 +36,7 @@ Most Scriptors come from the deep south-western forests of Arkhaven, a region of
 
 The elven settlements there are not simply woodland towns. They are archive-cities, memory houses, scriptoria, observatories, temple-libraries, and academies built among vast trees, moss-covered stone, and old ruins. Their culture values continuity, record-keeping, careful speech, and the preservation of dangerous knowledge.
 
-The south-west is also closely tied to [[The Green Silence]], the great event in which the forest swallowed roads, cities, armies, and histories. To outsiders, the elves are survivors of that disaster. To some, they may have been its cause. To the elves, it is remembered less as a single event and more as a wound that never fully closed.
+The south-west is also closely tied to [The Green Silence](The%20Green%20Silence.md), the great event in which the forest swallowed roads, cities, armies, and histories. To outsiders, the elves are survivors of that disaster. To some, they may have been its cause. To the elves, it is remembered less as a single event and more as a wound that never fully closed.
 
 Because of this, Scriptors are taught to see history as something fragile. A kingdom can rewrite its founding myth. A church can edit a saint. A ruler can burn a record. But an elf who remembers the original words is harder to erase.
 
@@ -103,7 +103,7 @@ The best Inquisitor-Scriptors are not crude torturers. They are investigators.
 
 Their methods may include cross-examination, document comparison, magical residue analysis, illusion-breaking, ritual reconstruction, witness mapping, dream testimony, and the use of divination under strict procedure.
 
-Illusion magic has a particular place in the office. After the [[War of the False Saints]], illusion became both a suspect art and a necessary tool. An illusionist inquisitor understands deception because they study its shape. They can expose staged miracles, recreate a crime scene, test the consistency of a confession, disguise themselves to enter a cult, or reveal how a crowd was manipulated.
+Illusion magic has a particular place in the office. After the [War of the False Saints](War%20of%20the%20False%20Saints.md), illusion became both a suspect art and a necessary tool. An illusionist inquisitor understands deception because they study its shape. They can expose staged miracles, recreate a crime scene, test the consistency of a confession, disguise themselves to enter a cult, or reveal how a crowd was manipulated.
 
 This creates one of the central contradictions of the office:
 
@@ -145,11 +145,11 @@ A Scriptor who abuses their office can be recalled. A church that murders or imp
 
 The Scriptor Compact cannot be understood without the three great wounds of Arkhaven's history.
 
-### [[The Godscar]]
+### [The Godscar](The%20Godscar.md)
 
 #godscar #cataclysm #geography
 
-[[The Godscar]] is the name given to the vast vertical crevasses that split the continent from north to south. These wounds in the land are filled with deep lakes, drowned valleys, sheer cliffs, narrow crossings, fjords, and ancient ruins lost beneath the water.
+[The Godscar](The%20Godscar.md) is the name given to the vast vertical crevasses that split the continent from north to south. These wounds in the land are filled with deep lakes, drowned valleys, sheer cliffs, narrow crossings, fjords, and ancient ruins lost beneath the water.
 
 To common folk, the Godscar is proof that the gods once touched the world directly, whether in wrath, grief, battle, or sacrifice. To scholars, it remains the greatest unresolved mystery in recorded history.
 
@@ -159,11 +159,11 @@ For Scriptors, the Godscar matters because every church has tried to claim it. S
 
 A Scriptor assigned to a church near the Godscar must often determine which traditions are ancient, which are political, and which are outright lies.
 
-### [[War of the False Saints]]
+### [War of the False Saints](War%20of%20the%20False%20Saints.md)
 
 #false_saints #heresy #illusion_magic
 
-The [[War of the False Saints]] was the great religious disaster that made the Scriptor Compact necessary.
+The [War of the False Saints](War%20of%20the%20False%20Saints.md) was the great religious disaster that made the Scriptor Compact necessary.
 
 During this period, mortals learned how to manufacture the appearance of divine authority. False miracles were staged. Saints were invented. Relics were forged. Visions were induced through magic. Prophecies were edited after the fact. Entire armies marched under banners blessed by voices that were never divine.
 
@@ -175,11 +175,11 @@ The Scriptor Compact grew from this fear. Churches accepted elven mage-advisors 
 
 The Inquisitor-Scriptor role also descends from this period. At its best, it exists to prevent another age of false saints. At its worst, it repeats the same violence in the name of prevention.
 
-### [[The Green Silence]]
+### [The Green Silence](The%20Green%20Silence.md)
 
 #green_silence #elves #ancient_forest
 
-[[The Green Silence]] is the name given to the ancient disaster that transformed the south-western forests.
+[The Green Silence](The%20Green%20Silence.md) is the name given to the ancient disaster that transformed the south-western forests.
 
 Before the Silence, that region contained roads, cities, towers, temples, and archives belonging to several peoples. Then the forest changed. It advanced without fire, army, or storm. Roots broke stone. Roads vanished beneath moss. Towers disappeared behind bark and vine. Settlements were swallowed so completely that later maps argued over whether they had ever existed.
 
