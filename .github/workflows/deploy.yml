@@ -37,7 +37,17 @@ jobs:
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0
 
-      # Step 4: Build and Deploy MkDocs Site
-      - name: Deploy MkDocs to GitHub Pages
+      # Step 4: Build MkDocs site
+      - name: Build MkDocs
         run: |
-          mkdocs gh-deploy --force --config-file mkdocs.yml
+          mkdocs build --clean --config-file mkdocs.yml
+
+      # Step 5: Deploy built site to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          keep_files: false
+          allow_empty_commit: false
