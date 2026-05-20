@@ -1,0 +1,50 @@
+# Example of a more complicated config file for `MKDocs`
+# This one takes more action to handle formatting and theming
+
+site_name: Dan's Notes
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  # Custom color settings
+  custom_dir: .overrides
+
+nav:
+ # this will generate the nav dynamically
+  - ... 
+# The index.md file is the home page from the `docs` folder
+
+markdown_extensions:
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: dan1229
+      repo: obsidian-dans-notes
+      normalize_issue_symbols: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true

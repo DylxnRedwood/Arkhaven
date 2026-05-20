@@ -1,0 +1,85 @@
+# Example of a more complicated config file for `MKDocs`
+# This one takes more action to handle formatting and theming
+
+site_name: Dan's Notes
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  # Custom color settings
+  custom_dir: .overrides
+
+nav:
+ # this will generate the nav dynamically
+  - ... 
+# The index.md file is the home page from the `docs` folder
+
+markdown_extensions:
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: dan1229
+      repo: obsidian-dans-notes
+      normalize_issue_symbols: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.extra
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      baselevel: 1
+      toc_depth: 3
+      separator: "-"
+  - def_list
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - tables
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - awesome-pages
+  - tags
+  - mkdocs-simple-hooks:
+      hooks:
+        on_page_markdown: "docs.hooks:fix_markdown_spacing"
+
+# Source directory (where your markdown files are)
+docs_dir: .site_content
+
+# Output directory (where the built site will go)
+site_dir: site
