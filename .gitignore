@@ -5,3 +5,6 @@ __pycache__/
 *.egg-info/
 .env
 .venv
+
+# Obsidian-only content (not published to web)
+docs/Worldbuilding/_Private/
