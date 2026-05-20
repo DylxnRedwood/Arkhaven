@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positions of Power/Inquisitor-Scriptor.md",
+                "file": "Gods/The Pantheon/Akadi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inquisitor-Scriptor"
+              "title": "Akadi"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "33e9e7ae703a2d62",
+  "active": "17719f01d043157a",
   "lastOpenFiles": [
-    "Locations/Continents/Arkhaven.md",
     "Positions of Power/Inquisitor-Scriptor.md",
+    "Gods/The Pantheon",
+    "Locations/Continents/Arkhaven.md",
     "Positions of Power",
     "Races/Elves.md",
     "Races",
@@ -193,30 +194,28 @@
     "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Arkhaven Events",
     "Locations/Continents",
-    "Gods/Gwaeron Windstrom.md",
-    "Gods/Shaundakul.md",
-    "Gods/Mielikki.md",
-    "Gods/Red Knight.md",
-    "Gods/Asmodeus.md",
-    "Gods/Silvanus.md",
-    "Gods/Umberlee.md",
-    "Gods/Lathander.md",
-    "Gods/Chauntea.md",
-    "Gods/Selûne.md",
-    "Gods/Istishia.md",
-    "Gods/Waukeen.md",
-    "Gods/Kossuth.md",
-    "Gods/Mystra.md",
-    "Gods/Kelemvor.md",
-    "Gods/Valkur.md",
-    "Gods/Tempus.md",
-    "Gods/Grumbar.md",
-    "Gods/Talona.md",
+    "Gods/The Pantheon/Gwaeron Windstrom.md",
+    "Gods/The Pantheon/Shaundakul.md",
+    "Gods/The Pantheon/Mielikki.md",
+    "Gods/The Pantheon/Red Knight.md",
+    "Gods/The Pantheon/Asmodeus.md",
+    "Gods/The Pantheon/Silvanus.md",
+    "Gods/The Pantheon/Umberlee.md",
+    "Gods/The Pantheon/Lathander.md",
+    "Gods/The Pantheon/Chauntea.md",
+    "Gods/The Pantheon/Selûne.md",
+    "Gods/The Pantheon/Istishia.md",
+    "Gods/The Pantheon/Waukeen.md",
+    "Gods/The Pantheon/Kossuth.md",
+    "Gods/The Pantheon/Mystra.md",
+    "Gods/The Pantheon/Kelemvor.md",
+    "Gods/The Pantheon/Valkur.md",
+    "Gods/The Pantheon/Tempus.md",
+    "Gods/The Pantheon/Grumbar.md",
     "Gods",
     "Locations",
     "Sessions",
     "Factions",
-    "Quests",
-    "Lore"
+    "Quests"
   ]
 }
