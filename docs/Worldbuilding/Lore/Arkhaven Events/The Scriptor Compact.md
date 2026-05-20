@@ -190,20 +190,4 @@ For the Scriptors, the Green Silence is their inheritance. It teaches that histo
 
 This is why they write.
 
-## Tone and Themes
 
-The Scriptor Compact should not be treated as purely good or evil. It is an old institution built to solve real problems, but it carries real dangers.
-
-It protects memory, but can become surveillance.
-
-It defends truth, but can become dogma.
-
-It restrains churches, but may also give elves too much influence.
-
-It investigates heresy, but can become persecution.
-
-It allows non-believers to preserve faith, which some consider wisdom and others consider blasphemy.
-
-At its heart, the Compact asks a question that should sit beneath much of Arkhaven's religious history:
-
-When gods, mortals, magic, and memory all disagree, who gets to decide what is true?

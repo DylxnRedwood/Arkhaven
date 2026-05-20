@@ -23,7 +23,7 @@ At first, people wanted to believe. In a land already shaped by [The Godscar](Th
 
 Then the contradictions began.
 
-One saint spoke for [Tyr](../../Gods/The%20Pantheon/Tyr.md). Another claimed [Tyr](../../Gods/The%20Pantheon/Tyr.md) had been deceived. A prophet of [Lathander](../../Gods/The%20Pantheon/Lathander.md) declared a new dawn, while a rival vision in the name of [Amaunator](../../Gods/The%20Pantheon/Amaunator.md) demanded old law restored. A supposed martyr of [Ilmater](../../Gods/The%20Pantheon/Ilmater.md) called for mercy, but another used the same god's suffering as an excuse for holy violence. A hidden oracle spoke in the voice of [Savras](../../Gods/The%20Pantheon/Savras.md), while illusionists later proved the voice had been manufactured.
+One saint spoke for [Tyr](Tyr.md). Another claimed [Tyr](Tyr.md) had been deceived. A prophet of [Lathander](Lathander.md) declared a new dawn, while a rival vision in the name of [Amaunator](Amaunator.md) demanded old law restored. A supposed martyr of [Ilmater](Ilmater.md) called for mercy, but another used the same god's suffering as an excuse for holy violence. A hidden oracle spoke in the voice of [Savras](Savras.md), while illusionists later proved the voice had been manufactured.
 
 The age became impossible to untangle. Some miracles were real. Some were false. Some began as lies and later attracted true faith. Some were arcane tricks. Some were divine signs misunderstood by desperate people. Some may have come from darker powers wearing holy masks.
 
@@ -41,7 +41,7 @@ The gods were present. The gods were powerful. The gods could return, vanish, ch
 
 That uncertainty created fertile ground for false saints.
 
-If [Mystra](../../Gods/The%20Pantheon/Mystra.md) could die and return, if [Shaundakul](../../Gods/The%20Pantheon/Shaundakul.md) could disappear and return, if old powers could be restored after cosmic upheaval, then why could a new saint not rise from the edge of the Godscar? Why could a dead prophet not speak again? Why could a forgotten relic not bear new truth?
+If [Mystra](Mystra.md) could die and return, if [Shaundakul](Shaundakul.md) could disappear and return, if old powers could be restored after cosmic upheaval, then why could a new saint not rise from the edge of the Godscar? Why could a dead prophet not speak again? Why could a forgotten relic not bear new truth?
 
 The answer, as Arkhaven learned too late, was that they could.
 
@@ -73,9 +73,9 @@ Below are the broad associations most often discussed by Scriptors and historian
 
 ## Gods of Law, Duty, and Judgement
 
-Faiths devoted to [Tyr](../../Gods/The%20Pantheon/Tyr.md), [Torm](../../Gods/The%20Pantheon/Torm.md), [Helm](../../Gods/The%20Pantheon/Helm.md), and [Amaunator](../../Gods/The%20Pantheon/Amaunator.md) were especially vulnerable to claims of legal or moral certainty.
+Faiths devoted to [Tyr](Tyr.md), [Torm](Torm.md), [Helm](Helm.md), and [Amaunator](Amaunator.md) were especially vulnerable to claims of legal or moral certainty.
 
-A false saint of [Tyr](../../Gods/The%20Pantheon/Tyr.md) could accuse entire towns of hidden crimes. A forged vision of [Torm](../../Gods/The%20Pantheon/Torm.md) could demand impossible loyalty from soldiers and paladins. In the name of [Helm](../../Gods/The%20Pantheon/Helm.md), watchmen and guardians could be convinced that vigilance required cruelty. Under the banner of [Amaunator](../../Gods/The%20Pantheon/Amaunator.md), law could be made sacred even when it served only the powerful.
+A false saint of [Tyr](Tyr.md) could accuse entire towns of hidden crimes. A forged vision of [Torm](Torm.md) could demand impossible loyalty from soldiers and paladins. In the name of [Helm](Helm.md), watchmen and guardians could be convinced that vigilance required cruelty. Under the banner of [Amaunator](Amaunator.md), law could be made sacred even when it served only the powerful.
 
 These faiths did not all fall to corruption, but their language was easy to weaponise. Justice, duty, vigilance, and law are noble things when rightly used. In the wrong hands, they become chains.
 
@@ -83,11 +83,11 @@ Many of the harshest inquisitorial courts from the war claimed to act in the nam
 
 ## Gods of Mercy, Renewal, and Peace
 
-The churches of [Ilmater](../../Gods/The%20Pantheon/Ilmater.md), [Lathander](../../Gods/The%20Pantheon/Lathander.md), [Chauntea](../../Gods/The%20Pantheon/Chauntea.md), [Eldath](../../Gods/The%20Pantheon/Eldath.md), [Lliira](../../Gods/The%20Pantheon/Lliira.md), and [Sune](../../Gods/The%20Pantheon/Sune.md) were often used in a different way.
+The churches of [Ilmater](Ilmater.md), [Lathander](Lathander.md), [Chauntea](Chauntea.md), [Eldath](Eldath.md), [Lliira](Lliira.md), and [Sune](Sune.md) were often used in a different way.
 
 Their false saints did not always call for war. Some called for healing, rebirth, sanctuary, celebration, love, or forgiveness. That made them easier to trust.
 
-A false saint of [Ilmater](../../Gods/The%20Pantheon/Ilmater.md) might gather the suffering and teach them that endurance required obedience to a particular priest. A false prophet of [Lathander](../../Gods/The%20Pantheon/Lathander.md) might declare that an old order must be burned away for a new dawn to rise. A supposed voice of [Chauntea](../../Gods/The%20Pantheon/Chauntea.md) might bless land seizures as sacred cultivation. A miracle of [Eldath](../../Gods/The%20Pantheon/Eldath.md) might be used to disarm victims before betrayal.
+A false saint of [Ilmater](Ilmater.md) might gather the suffering and teach them that endurance required obedience to a particular priest. A false prophet of [Lathander](Lathander.md) might declare that an old order must be burned away for a new dawn to rise. A supposed voice of [Chauntea](Chauntea.md) might bless land seizures as sacred cultivation. A miracle of [Eldath](Eldath.md) might be used to disarm victims before betrayal.
 
 Even gentle doctrines can become dangerous when someone claims the gods have made them the only interpreter of mercy.
 
@@ -95,11 +95,11 @@ This is one of the lessons most often repeated by modern Scriptors: peaceful lan
 
 ## Gods of Knowledge, Magic, and Art
 
-The faiths of [Mystra](../../Gods/The%20Pantheon/Mystra.md), [Azuth](../../Gods/The%20Pantheon/Azuth.md), [Oghma](../../Gods/The%20Pantheon/Oghma.md), [Deneir](../../Gods/The%20Pantheon/Deneir.md), [Milil](../../Gods/The%20Pantheon/Milil.md), [Gond](../../Gods/The%20Pantheon/Gond.md), and [Savras](../../Gods/The%20Pantheon/Savras.md) were central to the crisis.
+The faiths of [Mystra](Mystra.md), [Azuth](Azuth.md), [Oghma](Oghma.md), [Deneir](Deneir.md), [Milil](Milil.md), [Gond](Gond.md), and [Savras](Savras.md) were central to the crisis.
 
 The war could not have spread as it did without magic, records, invention, song, symbols, and prophecy. False saints needed texts, seals, visions, rituals, songs, maps, relic-cases, forged glyphs, copied scripture, and magical displays. These are the tools of civilisation, but they are also the tools of deception.
 
-[Mystra](../../Gods/The%20Pantheon/Mystra.md) and [Azuth](../../Gods/The%20Pantheon/Azuth.md) were invoked by mages who claimed their spellcraft had divine sanction. [Savras](../../Gods/The%20Pantheon/Savras.md) was invoked by oracles, judges, and diviners, some honest and some not. [Deneir](../../Gods/The%20Pantheon/Deneir.md) and [Oghma](../../Gods/The%20Pantheon/Oghma.md) were pulled into bitter arguments over truth, record-keeping, and the preservation or destruction of disputed texts. [Gond](../../Gods/The%20Pantheon/Gond.md) was blamed for devices used to create artificial miracles. [Milil](../../Gods/The%20Pantheon/Milil.md) was invoked by singers whose hymns made false saints beloved by the masses.
+[Mystra](Mystra.md) and [Azuth](Azuth.md) were invoked by mages who claimed their spellcraft had divine sanction. [Savras](Savras.md) was invoked by oracles, judges, and diviners, some honest and some not. [Deneir](Deneir.md) and [Oghma](Oghma.md) were pulled into bitter arguments over truth, record-keeping, and the preservation or destruction of disputed texts. [Gond](Gond.md) was blamed for devices used to create artificial miracles. [Milil](Milil.md) was invoked by singers whose hymns made false saints beloved by the masses.
 
 The churches of knowledge did not simply watch the war. They became its battleground.
 
@@ -107,19 +107,19 @@ This is one of the direct roots of [The Scriptor Compact](The%20Scriptor%20Compa
 
 ## Gods of Nature, Hunt, and the Wild
 
-The faiths of [Silvanus](../../Gods/The%20Pantheon/Silvanus.md), [Mielikki](../../Gods/The%20Pantheon/Mielikki.md), [Malar](../../Gods/The%20Pantheon/Malar.md), [Gwaeron Windstrom](../../Gods/The%20Pantheon/Gwaeron%20Windstrom.md), and sometimes [Chauntea](../../Gods/The%20Pantheon/Chauntea.md) became entangled in rural uprisings, forest visions, and claims tied to [The Green Silence](The%20Green%20Silence.md).
+The faiths of [Silvanus](Silvanus.md), [Mielikki](Mielikki.md), [Malar](Malar.md), [Gwaeron Windstrom](Gwaeron%20Windstrom.md), and sometimes [Chauntea](Chauntea.md) became entangled in rural uprisings, forest visions, and claims tied to [The Green Silence](The%20Green%20Silence.md).
 
 False saints emerged from woods, groves, old stones, and swallowed ruins. Some claimed that the deep forest had chosen them. Some said the gods of the wild had rejected civilisation. Others claimed to have found relics beneath roots or heard divine voices in places abandoned since the Green Silence.
 
-A supposed servant of [Mielikki](../../Gods/The%20Pantheon/Mielikki.md) might lead frightened villagers into the woods for protection. A false champion of [Silvanus](../../Gods/The%20Pantheon/Silvanus.md) might call for settlements to be torn down. A cult invoking [Malar](../../Gods/The%20Pantheon/Malar.md) could turn hunts into ritual slaughter. Followers of [Gwaeron Windstrom](../../Gods/The%20Pantheon/Gwaeron%20Windstrom.md) were sometimes drawn into disputes over tracking saints, fugitives, or heretics through wild lands.
+A supposed servant of [Mielikki](Mielikki.md) might lead frightened villagers into the woods for protection. A false champion of [Silvanus](Silvanus.md) might call for settlements to be torn down. A cult invoking [Malar](Malar.md) could turn hunts into ritual slaughter. Followers of [Gwaeron Windstrom](Gwaeron%20Windstrom.md) were sometimes drawn into disputes over tracking saints, fugitives, or heretics through wild lands.
 
 Because the Green Silence had already erased so much history, claims from the forest were hard to disprove.
 
 ## Gods of War, Strategy, and Vengeance
 
-The gods [Tempus](../../Gods/The%20Pantheon/Tempus.md), [Red Knight](../../Gods/The%20Pantheon/Red%20Knight.md), and [Hoar](../../Gods/The%20Pantheon/Hoar.md) became rallying points once the crisis turned openly violent.
+The gods [Tempus](Tempus.md), [Red Knight](Red%20Knight.md), and [Hoar](Hoar.md) became rallying points once the crisis turned openly violent.
 
-In the name of [Tempus](../../Gods/The%20Pantheon/Tempus.md), warbands claimed sacred battle. Under the sign of [Red Knight](../../Gods/The%20Pantheon/Red%20Knight.md), commanders argued that strategy itself had become holy work. Through [Hoar](../../Gods/The%20Pantheon/Hoar.md), vengeance was framed as divine balance rather than personal anger.
+In the name of [Tempus](Tempus.md), warbands claimed sacred battle. Under the sign of [Red Knight](Red%20Knight.md), commanders argued that strategy itself had become holy work. Through [Hoar](Hoar.md), vengeance was framed as divine balance rather than personal anger.
 
 Some of these causes began with real grievances. Villages had been exploited. Relics had been forged. Pilgrims had been murdered. Priests had lied. But once vengeance became sanctified, the war fed itself.
 
@@ -127,11 +127,11 @@ The distinction between justice and revenge became one of the great theological 
 
 ## Gods of Fortune, Trade, Travel, and the Sea
 
-The churches and cults of [Tymora](../../Gods/The%20Pantheon/Tymora.md), [Waukeen](../../Gods/The%20Pantheon/Waukeen.md), [Shaundakul](../../Gods/The%20Pantheon/Shaundakul.md), [Valkur](../../Gods/The%20Pantheon/Valkur.md), [Umberlee](../../Gods/The%20Pantheon/Umberlee.md), and [Selûne](../../Gods/The%20Pantheon/Selûne.md) played a large role in spreading the crisis.
+The churches and cults of [Tymora](Tymora.md), [Waukeen](Waukeen.md), [Shaundakul](Shaundakul.md), [Valkur](Valkur.md), [Umberlee](Umberlee.md), and [Selûne](Selûne.md) played a large role in spreading the crisis.
 
 Pilgrims travelled. Merchants carried relics. Sailors brought stories from one coast to another. Caravans moved saints, witnesses, holy objects, and rumours across Arkhaven. A miracle that began in one town could become doctrine in another before any Scriptor had time to verify it.
 
-[Waukeen](../../Gods/The%20Pantheon/Waukeen.md) was invoked by those who profited from pilgrimage, relic markets, miracle shrines, and indulgences. [Tymora](../../Gods/The%20Pantheon/Tymora.md) was claimed by risk-takers who treated wild prophecy as blessed opportunity. [Shaundakul](../../Gods/The%20Pantheon/Shaundakul.md) and [Valkur](../../Gods/The%20Pantheon/Valkur.md) were called upon by travellers carrying news, some true and some planted. [Selûne](../../Gods/The%20Pantheon/Selûne.md) was invoked for guidance through darkness, especially by those fleeing persecution. [Umberlee](../../Gods/The%20Pantheon/Umberlee.md) was appeased by coastal communities terrified that the gods were at war again.
+[Waukeen](Waukeen.md) was invoked by those who profited from pilgrimage, relic markets, miracle shrines, and indulgences. [Tymora](Tymora.md) was claimed by risk-takers who treated wild prophecy as blessed opportunity. [Shaundakul](Shaundakul.md) and [Valkur](Valkur.md) were called upon by travellers carrying news, some true and some planted. [Selûne](Selûne.md) was invoked for guidance through darkness, especially by those fleeing persecution. [Umberlee](Umberlee.md) was appeased by coastal communities terrified that the gods were at war again.
 
 The War of the False Saints spread because Arkhaven was connected enough for lies to travel.
 
@@ -139,11 +139,11 @@ The War of the False Saints spread because Arkhaven was connected enough for lie
 
 No account of the war can avoid the darker powers.
 
-[Cyric](../../Gods/The%20Pantheon/Cyric.md), [Leira](../../Gods/The%20Pantheon/Leira.md), [Shar](../../Gods/The%20Pantheon/Shar.md), [Mask](../../Gods/The%20Pantheon/Mask.md), [Bane](../../Gods/The%20Pantheon/Bane.md), [Bhaal](../../Gods/The%20Pantheon/Bhaal.md), [Myrkul](../../Gods/The%20Pantheon/Myrkul.md), [Loviatar](../../Gods/The%20Pantheon/Loviatar.md), [Talona](../../Gods/The%20Pantheon/Talona.md), [Talos](../../Gods/The%20Pantheon/Talos.md), [Auril](../../Gods/The%20Pantheon/Auril.md), [Beshaba](../../Gods/The%20Pantheon/Beshaba.md), and [Asmodeus](../../Gods/The%20Pantheon/Asmodeus.md) are all named in accusations, confessions, trials, or later histories.
+[Cyric](Cyric.md), [Leira](Leira.md), [Shar](Shar.md), [Mask](Mask.md), [Bane](Bane.md), [Bhaal](Bhaal.md), [Myrkul](Myrkul.md), [Loviatar](Loviatar.md), [Talona](Talona.md), [Talos](Talos.md), [Auril](Auril.md), [Beshaba](Beshaba.md), and [Asmodeus](Asmodeus.md) are all named in accusations, confessions, trials, or later histories.
 
-Some of these associations are obvious. [Cyric](../../Gods/The%20Pantheon/Cyric.md) is tied to strife, deception, lies, intrigue, illusion, conflict, and murder. [Leira](../../Gods/The%20Pantheon/Leira.md) is tied to deception and illusions. [Shar](../../Gods/The%20Pantheon/Shar.md) is tied to darkness, loss, hidden things, and forgotten memories. [Mask](../../Gods/The%20Pantheon/Mask.md) is tied to shadows and thieves. These names appear again and again in Scriptor records of staged miracles and vanished witnesses.
+Some of these associations are obvious. [Cyric](Cyric.md) is tied to strife, deception, lies, intrigue, illusion, conflict, and murder. [Leira](Leira.md) is tied to deception and illusions. [Shar](Shar.md) is tied to darkness, loss, hidden things, and forgotten memories. [Mask](Mask.md) is tied to shadows and thieves. These names appear again and again in Scriptor records of staged miracles and vanished witnesses.
 
-Other powers fed on the consequences. [Bane](../../Gods/The%20Pantheon/Bane.md) profited wherever fear became order. [Bhaal](../../Gods/The%20Pantheon/Bhaal.md) was honoured by those who turned holy murder into ritual. [Myrkul](../../Gods/The%20Pantheon/Myrkul.md) gathered dread around death and decay. [Loviatar](../../Gods/The%20Pantheon/Loviatar.md) was invoked by those who treated pain as proof. [Talona](../../Gods/The%20Pantheon/Talona.md) and [Talos](../../Gods/The%20Pantheon/Talos.md) haunted years of plague, poison, storm, and destruction. [Auril](../../Gods/The%20Pantheon/Auril.md) and [Beshaba](../../Gods/The%20Pantheon/Beshaba.md) were appeased by communities who believed misfortune itself had become divine judgement. [Asmodeus](../../Gods/The%20Pantheon/Asmodeus.md) appeared in records of bargains, hidden contracts, and faith twisted through legalism.
+Other powers fed on the consequences. [Bane](Bane.md) profited wherever fear became order. [Bhaal](Bhaal.md) was honoured by those who turned holy murder into ritual. [Myrkul](Myrkul.md) gathered dread around death and decay. [Loviatar](Loviatar.md) was invoked by those who treated pain as proof. [Talona](Talona.md) and [Talos](Talos.md) haunted years of plague, poison, storm, and destruction. [Auril](Auril.md) and [Beshaba](Beshaba.md) were appeased by communities who believed misfortune itself had become divine judgement. [Asmodeus](Asmodeus.md) appeared in records of bargains, hidden contracts, and faith twisted through legalism.
 
 Not every accusation was true. In the aftermath of the war, many churches blamed dark gods to hide their own failures.
 
@@ -151,7 +151,7 @@ Still, few serious scholars doubt that these powers had influence somewhere in t
 
 ## Elemental Powers and Primordial Claims
 
-The elemental powers [Akadi](../../Gods/The%20Pantheon/Akadi.md), [Grumbar](../../Gods/The%20Pantheon/Grumbar.md), [Istishia](../../Gods/The%20Pantheon/Istishia.md), and [Kossuth](../../Gods/The%20Pantheon/Kossuth.md) were invoked in more localised but still dangerous movements.
+The elemental powers [Akadi](Akadi.md), [Grumbar](Grumbar.md), [Istishia](Istishia.md), and [Kossuth](Kossuth.md) were invoked in more localised but still dangerous movements.
 
 Some false saints claimed to speak for the wind, stone, water, or flame rather than for the moral order of the gods. In regions shaped by drought, flood, earthquake, fire, or storm, such claims could become powerful quickly.
 
@@ -161,13 +161,13 @@ Because these powers sit uneasily between divine worship and primordial force, t
 
 ## Death, Records, and the Dead
 
-The faiths of [Kelemvor](../../Gods/The%20Pantheon/Kelemvor.md) and [Jergal](../../Gods/The%20Pantheon/Jergal.md) became essential in the aftermath.
+The faiths of [Kelemvor](Kelemvor.md) and [Jergal](Jergal.md) became essential in the aftermath.
 
 So many died under uncertain banners that the question of the dead became a crisis of its own. Were those who followed false saints damned, deceived, forgiven, or responsible? Were martyrs still martyrs if their cause was a lie? Were murderers absolved if they believed a god commanded them?
 
-[Kelemvor](../../Gods/The%20Pantheon/Kelemvor.md)'s clergy dealt with the dead. [Jergal](../../Gods/The%20Pantheon/Jergal.md), as scribe of the dead, became symbolically important to the record-keepers who tried to count the cost.
+[Kelemvor](Kelemvor.md)'s clergy dealt with the dead. [Jergal](Jergal.md), as scribe of the dead, became symbolically important to the record-keepers who tried to count the cost.
 
-Many modern Scriptors view [Jergal](../../Gods/The%20Pantheon/Jergal.md) with a certain professional unease. He represents a truth they understand well: every soul has a record, whether the living agree on it or not.
+Many modern Scriptors view [Jergal](Jergal.md) with a certain professional unease. He represents a truth they understand well: every soul has a record, whether the living agree on it or not.
 
 ## How the War Was Fought
 
@@ -304,26 +304,3 @@ A leader surrounded by flatterers may be warned that “every throne grows relic
 When someone asks for proof before belief, they may say, “Show me the Scriptor's copy.”
 
 These sayings show how deeply the war shaped Arkhaven. It was not only a conflict between churches. It changed how ordinary people think about truth.
-
-## Using War of the False Saints in Play
-
-The War of the False Saints should remain a major historical shadow over the campaign.
-
-It can appear through old battlefields, sealed relics, banned hymns, disputed saints, missing records, suspicious miracles, church trials, and Scriptors who know more than they are willing to say.
-
-Useful ways to use it include:
-
-- A relic from the war begins producing miracles again
-- A church wants a disputed saint restored to honour
-- An Inquisitor-Scriptor asks the party to investigate a miracle before it starts a revolt
-- A village still worships a saint officially declared false
-- A sealed archive from the war names a living church as the heir to a fraud
-- A cult of [Cyric](../../Gods/The%20Pantheon/Cyric.md) or [Leira](../../Gods/The%20Pantheon/Leira.md) recreates old miracle techniques
-- A priest of [Ilmater](../../Gods/The%20Pantheon/Ilmater.md) or [Lathander](../../Gods/The%20Pantheon/Lathander.md) fears their own church suppressed a genuine saint
-- A Scriptor discovers that a famous condemnation was forged
-- A pilgrimage near [The Godscar](The%20Godscar.md) begins attracting visions from multiple gods
-- An elven archive from [The Green Silence](The%20Green%20Silence.md) contains the oldest record of the first false miracle
-
-The war is especially useful because it creates uncertainty without requiring the gods to be absent. The gods are real. Divine power is real. Miracles can happen.
-
-That is exactly why false miracles are so dangerous.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/The Pantheon/Akadi.md",
+                "file": "Races/Elves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akadi"
+              "title": "Elves"
             }
           }
         ]
@@ -180,13 +180,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "17719f01d043157a",
+  "active": "33e9e7ae703a2d62",
   "lastOpenFiles": [
+    "Positions of Power/Inquisitor-Scriptor.md",
     "_Private/Positions of Power/Inquisitor-Scriptor.md",
-    "_Private/Lore/Arkhaven Events/War of the False Saints.md",
-    "_Private/Lore/Arkhaven Events/The Scriptor Compact.md",
-    "_Private/Lore/Arkhaven Events/The Green Silence.md",
+    "_Private/Gods/The Pantheon/Akadi.md",
+    "Locations/Continents/Arkhaven.md",
+    "Lore/Arkhaven Events/The Godscar.md",
     "_Private/Lore/Arkhaven Events/The Godscar.md",
+    "Lore/Arkhaven Events/The Green Silence.md",
+    "Lore/Arkhaven Events/The Scriptor Compact.md",
+    "_Private/Lore/Arkhaven Events/The Scriptor Compact.md",
+    "Lore/Arkhaven Events/War of the False Saints.md",
+    "_Private/Lore/Arkhaven Events/War of the False Saints.md",
+    "_Private/Lore/Arkhaven Events/The Green Silence.md",
     "_Private/Sessions",
     "_Private/Races",
     "_Private/Quests",
@@ -198,25 +205,18 @@
     "_Private/Locations",
     "_Private/Gods/The Pantheon",
     "_Private/README.md",
-    "Positions of Power/Inquisitor-Scriptor.md",
-    "Locations/Continents/Arkhaven.md",
     "Races/Elves.md",
-    "Lore/Arkhaven Events/War of the False Saints.md",
-    "Lore/Arkhaven Events/The Scriptor Compact.md",
-    "Lore/Arkhaven Events/The Green Silence.md",
-    "Lore/Arkhaven Events/The Godscar.md",
-    "Gods/The Pantheon/Gwaeron Windstrom.md",
-    "Gods/The Pantheon/Shaundakul.md",
-    "Gods/The Pantheon/Mielikki.md",
-    "Gods/The Pantheon/Red Knight.md",
-    "Gods/The Pantheon/Asmodeus.md",
-    "Gods/The Pantheon/Silvanus.md",
-    "Gods/The Pantheon/Umberlee.md",
-    "Gods/The Pantheon/Lathander.md",
-    "Gods/The Pantheon/Chauntea.md",
-    "Gods/The Pantheon/Selûne.md",
-    "Gods/The Pantheon/Istishia.md",
-    "Gods/The Pantheon/Waukeen.md",
-    "Gods/The Pantheon/Kossuth.md"
+    "_Private/Gods/The Pantheon/Gwaeron Windstrom.md",
+    "_Private/Gods/The Pantheon/Shaundakul.md",
+    "_Private/Gods/The Pantheon/Mielikki.md",
+    "_Private/Gods/The Pantheon/Red Knight.md",
+    "_Private/Gods/The Pantheon/Asmodeus.md",
+    "_Private/Gods/The Pantheon/Silvanus.md",
+    "_Private/Gods/The Pantheon/Umberlee.md",
+    "_Private/Gods/The Pantheon/Lathander.md",
+    "_Private/Gods/The Pantheon/Chauntea.md",
+    "_Private/Gods/The Pantheon/Selûne.md",
+    "_Private/Gods/The Pantheon/Istishia.md",
+    "_Private/Gods/The Pantheon/Waukeen.md"
   ]
 }

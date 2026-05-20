@@ -57,25 +57,6 @@ No priest can prove which version is true. No Scriptor has found a complete acco
 
 That uncertainty is part of its power.
 
-#dm-lore
-
-The true origin of the Godscar is known to almost no one.
-
-In the oldest age of Arkhaven, two divine rivals fought upon the face of the world. One was a good-aligned god, remembered now only through fragments, altered hymns, and contradictory titles. The other was his rival, a vast and terrible divine power whose name has been deliberately lost, buried, or broken apart by later faiths.
-
-Their conflict ended when the good-aligned god struck down his enemy and drove a divine weapon through the rival's chest as he lay upon the ground.
-
-The blow did not merely kill, wound, or banish the fallen power. It drove force through flesh, spirit, stone, and the deep bones of the world. The pressure shattered the land beneath them. Tectonic plates cracked and split. Valleys opened. Mountains shifted. Lowlands collapsed. Water rushed into the broken places.
-
-The Godscar is the wound left by that blow.
-
-It is not only a geological feature. It is the physical memory of divine violence.
-
-The common myths are not entirely wrong. The Godscar was made by a god. It was made in battle. It was made by a weapon. It was made when something terrible was defeated.
-
-But the truth is more uncomfortable than most churches admit.
-
-The scar was made by the god who won.
 
 ## Why the Truth Is Obscured
 
