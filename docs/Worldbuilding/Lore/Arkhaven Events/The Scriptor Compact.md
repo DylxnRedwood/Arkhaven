@@ -9,7 +9,6 @@ tags:
   - history
   - institutions
 ---
-
 # The Scriptor Compact
 
 #lore #religion #elves #magic #arkhaven
@@ -190,44 +189,6 @@ Their archive-cities now stand in the deep woods, surrounded by living forest an
 For the Scriptors, the Green Silence is their inheritance. It teaches that history can vanish. Not metaphorically, but physically. A road can be eaten. A city can be forgotten. A god can lose their name.
 
 This is why they write.
-
-## Use in a Campaign
-
-The Scriptor Compact gives the churches of Arkhaven a clear structure and a built-in source of tension.
-
-A player character connected to the Compact could be:
-
-- A junior Scriptor sent to serve a difficult church
-- An illusionist trained to expose false miracles
-- An Inquisitor-Scriptor investigating heresy
-- A church agent who distrusts their elven advisor
-- A runaway apprentice from the south-western academies
-- A convert caught between elven duty and religious faith
-- A scholar trying to uncover the true cause of the Godscar
-
-The office also gives the Dungeon Master a useful way to introduce old lore. A Scriptor can know what others have forgotten, but they do not need to reveal everything. They may be bound by oath, fear, politics, uncertainty, or shame.
-
-## Common Adventure Hooks
-
-A church head dies, and their Scriptor refuses to recognise the successor.
-
-A young faith gains followers but is denied legitimacy because no Scriptor has been assigned to it.
-
-An Inquisitor-Scriptor disappears after discovering that a famous saint never existed.
-
-A converted Scriptor is accused by the elven houses of abandoning their duty.
-
-A holy relic near the Godscar begins producing miracles that resemble known illusion magic.
-
-A church tries to dismiss its Scriptor after they uncover edited doctrine.
-
-A forbidden manuscript from before the Green Silence is found inside a swallowed ruin.
-
-A cult claims that the Godscar is opening again.
-
-A priest begs the party to protect their Scriptor from their own congregation.
-
-An Inquisitor-Scriptor asks the party to help investigate a miracle they desperately want to be real.
 
 ## Tone and Themes
 

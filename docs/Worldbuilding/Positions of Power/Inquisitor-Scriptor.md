@@ -10,7 +10,6 @@ tags:
   - church-law
   - scriptors
 ---
-
 # Inquisitor-Scriptor
 
 #lore #religion #elves #magic #inquisition #church_law #arkhaven
@@ -259,25 +258,6 @@ The Doubter is an inquisitor who no longer trusts the institution they serve. Th
 
 The Doubter is one of the most useful types for a player character.
 
-## Possible Player Character Role
-
-An Inquisitor-Scriptor makes a strong player character background, especially for a wizard, cleric, bard, rogue, paladin, or multiclass character with ties to religion and investigation.
-
-An illusionist version is particularly fitting. Such a character understands false appearances, staged miracles, disguise, misdirection, sensory manipulation, and the difference between what people see and what actually happened.
-
-A player character might be:
-
-- A junior Inquisitor-Scriptor sent to observe a troubled church
-- A former inquisitor who left after condemning the wrong person
-- An illusionist trained to expose false saints
-- A Scriptor forced into inquisitorial duties by a militant faith
-- A convert whose faith now conflicts with elven detachment
-- An investigator of relic fraud near [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md)
-- A runaway from the elven academies of [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md)
-- A loyal servant of the Compact who suspects the Compact itself has hidden something
-
-The key is to avoid making the character a simple religious police officer. The role is more interesting when it carries doubt, duty, restraint, and moral cost.
-
 ## Adventure Hooks
 
 An Inquisitor-Scriptor asks the party to help verify a miracle before the local church declares it genuine.
@@ -303,19 +283,3 @@ An elven house recalls an Inquisitor-Scriptor, but the church refuses to release
 A condemned heretic claims the inquisitor's own records prove their innocence.
 
 A player character is asked to serve as witness during an interrogation.
-
-## Tone
-
-An Inquisitor-Scriptor should not be treated as automatically good or evil.
-
-The office exists for understandable reasons. Arkhaven has already suffered through false miracles, religious fraud, forged saints, and holy violence. A society that remembers [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) would naturally fear unchecked prophecy and unverified miracles.
-
-But the office is dangerous by design.
-
-It gives legal force to suspicion. It allows churches to define truth. It gives long-lived elven scholars power over short-lived human communities. It can expose fraud, but it can also crush dissent. It can save lives, but it can also ruin them.
-
-At its best, an Inquisitor-Scriptor is the person who asks for proof before belief becomes bloodshed.
-
-At its worst, they are the person who decides doubt is a crime.
-
-The best use of the office is somewhere between those two.

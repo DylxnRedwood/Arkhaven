@@ -9,7 +9,6 @@ tags:
   - forest
   - mystery
 ---
-
 # The Green Silence
 
 #lore #cataclysm #elves #forest #ancient_history #arkhaven
@@ -73,8 +72,6 @@ The elves rarely give a single answer. When pressed, they tend to speak carefull
 What is clear is that after the Green Silence, the elves became the greatest preservers of memory in Arkhaven. Their records survived where others did not. Their scholars became valued, resented, and feared. Their long lives made them difficult to contradict, especially when human kingdoms had lost their own archives.
 
 This is one reason the Scriptor tradition carries so much weight. The elves are not trusted because they are innocent. They are trusted because they remember.
-
-## The Hidden Truth
 
 #dm-lore
 
@@ -224,41 +221,3 @@ A witness who vanishes before giving testimony has “walked into the green.”
 These sayings do not always refer directly to the south-western forest, but they show how deeply the event has shaped Arkhaven's imagination.
 
 The Green Silence is not only history. It is a warning about what happens when the world chooses not to remember.
-
-## Using The Green Silence in Play
-
-The Green Silence should be handled as a slow mystery rather than a solved event.
-
-It can appear in the campaign through hints: an old map showing roads that no longer exist, a Scriptor refusing to translate a passage, a ruin discovered beneath roots, a church suppressing a forest relic, or an elven elder correcting a human legend with too much precision.
-
-Useful ways to use it include:
-
-- A reason the south-western forests feel ancient and politically important
-- A source of ruins, lost texts, and buried roads
-- A reason the elves are respected, feared, and suspected
-- A mystery tied to the origins of [The Scriptor Compact](The%20Scriptor%20Compact.md)
-- A counterpoint to [The Godscar](The%20Godscar.md)
-- A source of religious claims and false miracles after the [War of the False Saints](War%20of%20the%20False%20Saints.md)
-- A place where history has not been destroyed, only hidden
-
-The Green Silence should not answer questions too quickly. It should create them.
-
-Why did the forest advance?
-
-What was buried?
-
-Who benefited from the silence?
-
-What do the elves know?
-
-What would happen if the forest gave back what it took?
-
-## Tone
-
-The Green Silence should feel old, quiet, and unresolved.
-
-It is not a loud apocalypse. It is not a burning sky or a shattered mountain. It is the terror of returning to a place and finding that the road has gone, the town is gone, the bells are gone, and the trees have grown over everything as if people were never there.
-
-The horror of the Green Silence is not that the forest hates civilisation.
-
-It is that the forest remembers it differently.

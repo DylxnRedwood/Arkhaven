@@ -9,7 +9,6 @@ tags:
   - religion
   - ancient-history
 ---
-
 # The Godscar
 
 #lore #cataclysm #geography #mythology #arkhaven
@@ -57,8 +56,6 @@ There are also quieter, older stories that avoid certainty altogether. These tal
 No priest can prove which version is true. No Scriptor has found a complete account that all faiths accept. No ruler has resisted the temptation to use the Godscar as proof that their cause is favoured.
 
 That uncertainty is part of its power.
-
-## The Hidden Truth
 
 #dm-lore
 
@@ -165,31 +162,3 @@ Travellers tell of voices rising from below when no one is there. Campfires burn
 Some of these stories are nonsense. Some are religious invention. Some may be true.
 
 The Godscar is a place where myth clings to the senses. Even those who do not believe in gods often feel watched there.
-
-## Using the Godscar in Play
-
-The Godscar should feel important long before the players understand it.
-
-It can be a barrier they must cross, a route they must follow, a holy site they are warned not to disturb, or a mystery that appears in fragments over many sessions. Its true origin does not need to be revealed early. In fact, it is stronger if the players hear several contradictory explanations before discovering that each contains part of the truth.
-
-Useful ways to present it include:
-
-- A vast physical obstacle dividing regions of Arkhaven
-- A sacred wound claimed by several churches
-- A place of pilgrimage, judgement, exile, or execution
-- A route for trade, war, smuggling, and migration
-- A source of ruins, relics, monsters, and forbidden histories
-- A theological problem that churches prefer to simplify
-- A scar left by a good act that still caused terrible destruction
-
-The most important idea is that the Godscar should not be reduced to a simple canyon. It is geography, religion, history, politics, and trauma all at once.
-
-## Tone
-
-The myths around the Godscar should remain vague for now.
-
-People should argue about it. Priests should disagree. Elves should hesitate before answering. Old texts should contradict each other. Common stories should be emotionally true even when factually wrong.
-
-The Godscar is not just where the world broke.
-
-It is where everyone tries to explain why.

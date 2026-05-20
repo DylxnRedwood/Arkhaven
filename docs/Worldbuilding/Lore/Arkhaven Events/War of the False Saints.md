@@ -9,7 +9,6 @@ tags:
   - false-saints
   - heresy
 ---
-
 # War of the False Saints
 
 #lore #religion #cataclysm #heresy #false_saints #arkhaven
@@ -328,23 +327,3 @@ Useful ways to use it include:
 The war is especially useful because it creates uncertainty without requiring the gods to be absent. The gods are real. Divine power is real. Miracles can happen.
 
 That is exactly why false miracles are so dangerous.
-
-## Tone
-
-The War of the False Saints should not feel like a simple battle between good churches and evil cults.
-
-It should feel like a time when truth became difficult, when faith became political, when magic made certainty unreliable, and when good people did terrible things because they believed the gods had spoken.
-
-Some villains were frauds.
-
-Some saints were real.
-
-Some lies saved lives.
-
-Some truths caused massacres.
-
-That is why Arkhaven still fears the phrase.
-
-A false saint does not need to be believed by everyone.
-
-Only by enough people.
