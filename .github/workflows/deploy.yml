@@ -1,0 +1,72 @@
+# This is the CD file I use to deploy my notes site
+# Like a normal GH Action you will place this in `.github/workflows` to use
+
+name: Build and Deploy MkDocs Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install MkDocs and dependencies
+      - name: Install MkDocs and Plugins
+        run: |
+          pip install mkdocs \
+            mkdocs-material \
+            mkdocs-awesome-pages-plugin \
+            pymdown-extensions>=10.0 \
+            mkdocs-simple-hooks
+
+      # Step 4: Filter files and copy to temporary directory
+      - name: Filter and Copy Public Notes
+        run: |
+          mkdir -p .site_content
+          # Define excluded folders that should never be published
+          EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
+          
+          find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
+            # Check if file is in an excluded folder
+            SKIP=0
+            for folder in "${EXCLUSION[@]}"; do
+              if [[ "$file" == *"/$folder/"* ]]; then
+                echo "Skipping excluded file: $file"
+                SKIP=1
+                break
+              fi
+            done
+            
+            # Only copy if not in excluded folder
+            if [ $SKIP -eq 0 ]; then
+              cp --parents "$file" .site_content/
+            fi
+          done
+          cp index.md .site_content/ || true
+          cp -r .overrides .site_content/
+          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
+
+      # Step 5: Preprocess Obsidian Features
+      - name: Preprocess Obsidian Features
+        run: |
+          python .scripts/preprocess_dataviews.py
+          find .site_content/ -type f -name "*.md" -exec sed -i 's/\[\[\(.*\)\]\]/[\1](\1.md)/g' {} \;
+          echo "Preprocessed Obsidian features in markdown files."
+
+      # Step 6: Build and Deploy MkDocs Site
+      - name: Deploy MkDocs to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force --config-file mkdocs.yml
