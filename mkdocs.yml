@@ -77,6 +77,3 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
-  - mkdocs-simple-hooks:
-      hooks:
-        on_page_markdown: "docs.hooks:fix_markdown_spacing"
