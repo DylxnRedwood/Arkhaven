@@ -182,6 +182,8 @@
   },
   "active": "17719f01d043157a",
   "lastOpenFiles": [
+    "_Private/README.md",
+    "_Private",
     "Positions of Power/Inquisitor-Scriptor.md",
     "Gods/The Pantheon",
     "Locations/Continents/Arkhaven.md",
@@ -215,7 +217,6 @@
     "Gods",
     "Locations",
     "Sessions",
-    "Factions",
-    "Quests"
+    "Factions"
   ]
 }
