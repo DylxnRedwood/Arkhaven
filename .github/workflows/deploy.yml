@@ -32,41 +32,7 @@ jobs:
             pymdown-extensions>=10.0 \
             mkdocs-simple-hooks
 
-      # Step 4: Filter files and copy to temporary directory
-      - name: Filter and Copy Public Notes
-        run: |
-          mkdir -p .site_content
-          # Define excluded folders that should never be published
-          EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
-          
-          find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
-            # Check if file is in an excluded folder
-            SKIP=0
-            for folder in "${EXCLUSION[@]}"; do
-              if [[ "$file" == *"/$folder/"* ]]; then
-                echo "Skipping excluded file: $file"
-                SKIP=1
-                break
-              fi
-            done
-            
-            # Only copy if not in excluded folder
-            if [ $SKIP -eq 0 ]; then
-              cp --parents "$file" .site_content/
-            fi
-          done
-          cp index.md .site_content/ || true
-          cp -r .overrides .site_content/
-          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
-
-      # Step 5: Preprocess Obsidian Features
-      - name: Preprocess Obsidian Features
-        run: |
-          python .scripts/preprocess_dataviews.py
-          find .site_content/ -type f -name "*.md" -exec sed -i 's/\[\[\(.*\)\]\]/[\1](\1.md)/g' {} \;
-          echo "Preprocessed Obsidian features in markdown files."
-
-      # Step 6: Build and Deploy MkDocs Site
+      # Step 4: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |
           mkdocs gh-deploy --force --config-file mkdocs.yml
