@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "679d5e0df0f3a0fe",
+        "id": "4dde63fee5bd491a",
         "type": "tabs",
         "children": [
           {
-            "id": "086a616de157f948",
+            "id": "33e9e7ae703a2d62",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "086a616de157f948",
+  "active": "33e9e7ae703a2d62",
   "lastOpenFiles": [
     "Positions of Power/Inquisitor-Scriptor.md",
     "Positions of Power",
