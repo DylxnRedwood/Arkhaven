@@ -11,10 +11,14 @@
             "id": "33e9e7ae703a2d62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Positions of Power/Inquisitor-Scriptor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Inquisitor-Scriptor"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "33e9e7ae703a2d62",
   "lastOpenFiles": [
+    "Locations/Continents/Arkhaven.md",
     "Positions of Power/Inquisitor-Scriptor.md",
     "Positions of Power",
     "Races/Elves.md",
@@ -187,7 +192,6 @@
     "Lore/Arkhaven Events/The Green Silence.md",
     "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Arkhaven Events",
-    "Locations/Continents/Arkhaven.md",
     "Locations/Continents",
     "Gods/Gwaeron Windstrom.md",
     "Gods/Shaundakul.md",

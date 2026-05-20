@@ -32,13 +32,8 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
-nav:
- # this will generate the nav dynamically
-  - ... 
-# The index.md file is the home page from the `docs` folder
-
 # Source directory (where your markdown files are)
-docs_dir: docs/Worldbuilding
+docs_dir: docs
 
 # Output directory (where the built site will go)
 site_dir: site
