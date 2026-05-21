@@ -35,9 +35,9 @@ The largest dwarven populations are concentrated within the south-eastern mounta
 
 These mountains contain some of the highest elevations on the continent outside the glacial western peaks. The region is rich in iron, copper, silver, gold, coal, crystal deposits, and other deep-earth resources.
 
-The largest known dwarven city is **Khazmodan**, an immense mountain-capital constructed within the tallest peak of the south-east.
+The largest known dwarven city is **Khuldovar**, an immense mountain-capital constructed within the tallest peak of the south-east.
 
-Khazmodan functions as:
+Khuldovar functions as:
 
 - A political centre
 - A trade hub
@@ -50,9 +50,9 @@ The majority of the city exists beneath the mountain itself.
 
 Its upper gates and visible towers represent only a small portion of the overall settlement.
 
-## Khazmodan
+## Khuldovar
 
-Khazmodan is regarded as one of the oldest continuously inhabited cities in Arkhaven.
+Khuldovar is regarded as one of the oldest continuously inhabited cities in Arkhaven.
 
 The city extends through multiple vertical layers within the mountain, connected by lifts, ramps, bridges, carved stairways, mine-shafts, cisterns, ventilation tunnels, and magma-heated forge districts.
 
@@ -82,7 +82,7 @@ Some lower sections are believed to predate current dwarven kingdoms entirely.
 
 ## Other Holds and Outposts
 
-Dwarven populations are not limited to Khazmodan.
+Dwarven populations are not limited to Khuldovar.
 
 Large holds, fortress-cities, and mining enclaves exist throughout the mountain regions of Arkhaven.
 
