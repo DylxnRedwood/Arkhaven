@@ -2,7 +2,11 @@
 
 The calendar systems of [Lazuril](../Locations/World/Lazuril.md) vary between cultures, kingdoms, churches, and historical traditions.
 
-Most modern systems used in [Arkhaven](../Locations/Continents/Arkhaven.md) share common astronomical foundations, though differences in year numbering, holy observances, and seasonal interpretation remain widespread.
+Most modern systems used in [Arkhaven](../Locations/Continents/Arkhaven.md) now measure time using the beginning of [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md) as the primary historical reference point.
+
+Under this system, the first recorded year of the Green Silence is recognised as **1 GS**.
+
+The current historical period is generally understood to be slightly more than five centuries after the beginning of the event.
 
 ## Overview
 
@@ -14,7 +18,14 @@ Most major calendars are based upon:
 - Astronomical events
 - Religious observance
 
-The current dominant historical framework in Arkhaven is generally associated with the Compact Era.
+Although regional systems still exist, the GS dating system is widely used by:
+
+- Churches
+- Archive Houses
+- Scriptors
+- Trade institutions
+- Historians
+- Major governments
 
 ## Seasons
 
@@ -50,8 +61,16 @@ Astronomical observation remains important for:
 
 Elven observatories and maritime powers maintain some of the most accurate astronomical records.
 
+## Historical Usage
+
+The adoption of the GS system became increasingly widespread after the Age of False Saints and the expansion of institutional record keeping under the Scriptor Compact.
+
+Many historians considered the Green Silence a more stable historical reference point than earlier disputed events associated with the Godscar.
+
+Older records may therefore use different chronological systems.
+
 ## Current Status
 
-Although no single calendar system dominates all of Lazuril, increasing trade and institutional cooperation have encouraged gradual standardisation between major powers.
+Although no single calendar system dominates all of Lazuril, the GS dating system is now the closest equivalent to a continental standard throughout much of Arkhaven.
 
 Regional variations remain common, especially in isolated territories and older religious traditions.
