@@ -4,6 +4,8 @@ This page contains a broad historical framework for major recorded events in [La
 
 Exact dates remain disputed in many cases.
 
+Modern chronology throughout Arkhaven generally measures years from the beginning of the Green Silence, recognised as 1 GS.
+
 ## Age Before Memory
 
 - Earliest known civilisations emerge
@@ -13,7 +15,7 @@ Exact dates remain disputed in many cases.
 
 ## Age of Fracture
 
-- [The Godscar](../Lore/Historical%20Events/The%20Godscar.md) reshapes large areas of Arkhaven
+- [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) reshapes large areas of Arkhaven
 - Major migration and political collapse
 - Religious systems reorganise following the catastrophe
 - Several ancient kingdoms disappear from surviving record
@@ -25,16 +27,23 @@ Exact dates remain disputed in many cases.
 - Early dwarven holds expand beneath the mountains
 - Elven archive systems grow in influence
 
-## Era of Silence
+## 1 GS — Beginning of the Green Silence
 
-- [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md) affects the south-western forests
+- [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md) begins within the south-western forests
 - Roads, settlements, and records are lost
+- Geographic isolation increases across several regions
+- Historical uncertainty expands throughout Arkhaven
+
+## Early GS Period
+
 - Archive preservation becomes increasingly important
-- Geographic isolation increases in several regions
+- Scriptor traditions become more formalised
+- Elven archive houses expand influence
+- Several regions adopt new historical dating systems
 
 ## Age of False Saints
 
-- [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md) destabilises major churches
+- [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
 - False relics and fabricated miracles spread across Arkhaven
 - Religious conflict intensifies
 - Inquisitorial traditions begin to emerge
@@ -50,6 +59,7 @@ Exact dates remain disputed in many cases.
 
 ## Current Age
 
+- The current historical period is slightly more than five centuries after the beginning of the Green Silence
 - Political fragmentation remains widespread
 - Religious tension continues in several regions
 - Frontier exploration increases
