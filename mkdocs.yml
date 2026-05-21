@@ -72,3 +72,6 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
+  - exclude:
+      glob:
+        - 'Worldbuilding/_Private/**'

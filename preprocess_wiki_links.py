@@ -15,6 +15,8 @@ def build_link_map(docs_dir):
     link_map = {}
     
     for root, dirs, files in os.walk(docs_dir):
+        # Skip private notes folder
+        dirs[:] = [d for d in dirs if d != '_Private']
         for file in files:
             if file.endswith('.md'):
                 filepath = Path(root) / file
@@ -105,6 +107,8 @@ def main():
     # Convert wiki links in all markdown files
     converted = 0
     for filepath in docs_dir.rglob('*.md'):
+        if '_Private' in filepath.parts:
+            continue
         if convert_wiki_links_in_file(filepath, link_map, docs_dir):
             converted += 1
             print(f"  ✓ {filepath.relative_to(docs_dir)}")

@@ -35,6 +35,7 @@ jobs:
           pip install mkdocs \
             mkdocs-material \
             mkdocs-awesome-pages-plugin \
+            mkdocs-exclude \
             pymdown-extensions>=10.0
 
       # Step 4: Preprocess wiki links to markdown

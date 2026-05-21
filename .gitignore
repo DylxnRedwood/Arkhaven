@@ -6,5 +6,4 @@ __pycache__/
 .env
 .venv
 
-# Obsidian-only content (not published to web)
-docs/Worldbuilding/_Private/
+# Private local notes are now tracked in git and excluded from the website build via MkDocs.

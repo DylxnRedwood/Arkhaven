@@ -2,3 +2,4 @@ mkdocs==1.6.0
 mkdocs-material==9.5.18
 pymdown-extensions==10.5
 mkdocs-awesome-pages-plugin
+mkdocs-exclude
