@@ -1,6 +1,6 @@
 # Brother Halvek the White
 
-**Brother Halvek the White** was a monastic reformer associated with the [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+**Brother Halvek the White** was a monastic reformer associated with the [War of the False Saints](../../Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Status
 

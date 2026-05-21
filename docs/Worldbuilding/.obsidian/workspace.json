@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
+                "file": "Lore/Arkhaven Events/War of the False Saints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maerwyn of the Silver Flame"
+              "title": "War of the False Saints"
             }
           }
         ]
@@ -182,15 +182,16 @@
   },
   "active": "812666ef25654c62",
   "lastOpenFiles": [
+    "Locations/Continents/Arkhaven.md",
     "Lore/Arkhaven Events/War of the False Saints.md",
+    "Lore/Historical Figures/Brother Halvek the White.md",
+    "Lore/Historical Figures/Edranna Vale.md",
+    "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
+    "Lore/Historical Figures/Saint Arveth of the Open Hand.md",
+    "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
     "Lore/Arkhaven Events/The Scriptor Compact.md",
     "Lore/Arkhaven Events/The Green Silence.md",
     "Lore/Arkhaven Events/The Godscar.md",
-    "Lore/Historical Figures/Saint Arveth of the Open Hand.md",
-    "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
-    "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
-    "Lore/Historical Figures/Edranna Vale.md",
-    "Lore/Historical Figures/Brother Halvek the White.md",
     "Lore/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Saint Arveth of the Open Hand.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Maerwyn of the Silver Flame.md",
@@ -216,7 +217,6 @@
     "_Private/Quests/README.md",
     "_Private/Races/README.md",
     "_Private/NPCs/README.md",
-    "_Private/Positions of Power/README.md",
-    "_Private/Lore/README.md"
+    "_Private/Positions of Power/README.md"
   ]
 }

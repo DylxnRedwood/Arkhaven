@@ -1,6 +1,6 @@
 # Edranna Vale
 
-**Edranna Vale** was a disputed oracle associated with the [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+**Edranna Vale** was a disputed oracle associated with the [War of the False Saints](../../Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Status
 

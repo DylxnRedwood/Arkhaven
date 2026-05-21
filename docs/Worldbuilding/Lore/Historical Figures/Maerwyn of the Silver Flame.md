@@ -1,6 +1,6 @@
 # Maerwyn of the Silver Flame
 
-**Maerwyn of the Silver Flame** was a condemned religious fraud associated with the [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+**Maerwyn of the Silver Flame** was a condemned religious fraud associated with the [War of the False Saints](../../Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Status
 

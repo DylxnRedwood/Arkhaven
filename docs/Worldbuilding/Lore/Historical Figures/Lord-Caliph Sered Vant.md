@@ -1,6 +1,6 @@
 # Lord-Caliph Sered Vant
 
-**Lord-Caliph Sered Vant** was a regional ruler and political false saint associated with the [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+**Lord-Caliph Sered Vant** was a regional ruler and political false saint associated with the [War of the False Saints](../../Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Status
 

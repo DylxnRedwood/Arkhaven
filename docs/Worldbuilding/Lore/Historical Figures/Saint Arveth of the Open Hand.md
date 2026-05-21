@@ -1,6 +1,6 @@
 # Saint Arveth of the Open Hand
 
-**Saint Arveth of the Open Hand** was a historical religious figure associated with the [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+**Saint Arveth of the Open Hand** was a historical religious figure associated with the [War of the False Saints](../../Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Status
 
