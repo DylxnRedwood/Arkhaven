@@ -11,14 +11,10 @@
             "id": "33e9e7ae703a2d62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Elves.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elves"
+              "title": "New tab"
             }
           }
         ]
@@ -182,30 +178,30 @@
   },
   "active": "33e9e7ae703a2d62",
   "lastOpenFiles": [
+    "_Private/README.md",
+    "Races/Elves.md",
+    "Races",
     "Positions of Power/Inquisitor-Scriptor.md",
+    "Positions of Power",
+    "Lore/Arkhaven Events/War of the False Saints.md",
+    "Lore/Arkhaven Events/The Scriptor Compact.md",
+    "Lore/Arkhaven Events/The Green Silence.md",
+    "Lore/Arkhaven Events/The Godscar.md",
+    "Lore/Arkhaven Events",
+    "Lore",
+    "Locations/Continents/Arkhaven.md",
+    "Locations/Continents",
+    "Locations",
     "_Private/Positions of Power/Inquisitor-Scriptor.md",
     "_Private/Gods/The Pantheon/Akadi.md",
-    "Locations/Continents/Arkhaven.md",
-    "Lore/Arkhaven Events/The Godscar.md",
     "_Private/Lore/Arkhaven Events/The Godscar.md",
-    "Lore/Arkhaven Events/The Green Silence.md",
-    "Lore/Arkhaven Events/The Scriptor Compact.md",
     "_Private/Lore/Arkhaven Events/The Scriptor Compact.md",
-    "Lore/Arkhaven Events/War of the False Saints.md",
     "_Private/Lore/Arkhaven Events/War of the False Saints.md",
     "_Private/Lore/Arkhaven Events/The Green Silence.md",
     "_Private/Sessions",
     "_Private/Races",
     "_Private/Quests",
     "_Private/Positions of Power",
-    "_Private/NPCs",
-    "_Private/Lore/Arkhaven Events",
-    "_Private/Lore",
-    "_Private/Locations/Continents",
-    "_Private/Locations",
-    "_Private/Gods/The Pantheon",
-    "_Private/README.md",
-    "Races/Elves.md",
     "_Private/Gods/The Pantheon/Gwaeron Windstrom.md",
     "_Private/Gods/The Pantheon/Shaundakul.md",
     "_Private/Gods/The Pantheon/Mielikki.md",
@@ -216,7 +212,6 @@
     "_Private/Gods/The Pantheon/Lathander.md",
     "_Private/Gods/The Pantheon/Chauntea.md",
     "_Private/Gods/The Pantheon/Selûne.md",
-    "_Private/Gods/The Pantheon/Istishia.md",
-    "_Private/Gods/The Pantheon/Waukeen.md"
+    "_Private/Gods/The Pantheon/Istishia.md"
   ]
 }
