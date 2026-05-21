@@ -1,7 +1,7 @@
 # Example of a more complicated config file for `MKDocs`
 # This one takes more action to handle formatting and theming
 
-site_name: Arkhaven Wiki
+site_name: Lazuril Wiki
 theme:
   name: material
   features:
