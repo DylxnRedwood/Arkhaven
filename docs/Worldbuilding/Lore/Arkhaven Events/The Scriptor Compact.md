@@ -1,51 +1,70 @@
----
-title: The Scriptor Compact
-continent: Arkhaven
-tags:
-  - lore
-  - religion
-  - elves
-  - magic
-  - history
-  - institutions
----
 # The Scriptor Compact
 
-#lore #religion #elves #magic #arkhaven
+The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](../../Locations/Continents/Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven mage-advisor known as a **Scriptor**.
 
-Across [Arkhaven](../../Locations/Continents/Arkhaven.md), most recognised heads of churches are assigned an elven mage-advisor. These advisors are known formally as **Scriptors**, though their exact title changes between faiths, kingdoms, and languages.
+A Scriptor serves as a trained archivist, theological advisor, legal scholar, ritual witness, translator, magical examiner, and keeper of institutional memory. Their purpose is to preserve the continuity of religious doctrine across generations and to advise church leaders on matters where history, law, magic, and faith overlap.
 
-A Scriptor is not simply a secretary, nor are they merely a court wizard in religious robes. They are trained archivists, theologians, legal scholars, ritual witnesses, translators, magical examiners, and keepers of institutional memory. Their purpose is to preserve the continuity of a faith across generations, especially in a world where human lives are short, kingdoms rise and collapse, and holy doctrine is often pulled between belief, ambition, politics, and fear.
+Most Scriptors are of [elven heritage](../../Races/Elves.md), although not all are full-blooded elves. The position is associated with the long education, discipline, and historical memory of the elven academies of the south-western forests.
 
-Most Scriptors are of [elven heritage](../../Races/Elves.md), though not always full-blooded elves. What matters is the long life, discipline, and education associated with the old elven academies. The role requires a mind trained over centuries rather than decades. A human priest may serve a church for forty years. A Scriptor may remember six such priests, their reforms, their mistakes, their scandals, and the promises they made before they died.
+## Overview
 
-## Origins of the Office
+The Scriptor Compact exists to provide churches with long-lived, highly trained advisors who are not necessarily part of the faith they serve.
 
-The tradition began after the great religious disasters of early Arkhaven, especially the [War of the False Saints](War%20of%20the%20False%20Saints.md). During that period, churches and kingdoms were torn apart by false miracles, forged relics, altered scripture, staged visions, and arcane deception disguised as divine will.
+The role is based on the idea that religious institutions are vulnerable to corruption, mistranslation, political pressure, false miracles, altered scripture, and the loss of historical memory. A Scriptor is expected to reduce these risks by preserving records, comparing doctrine, advising on precedent, and identifying magical or textual manipulation.
 
-In the aftermath, the surviving faiths accepted a hard truth: belief alone was not enough to protect a church from corruption. A priest could be devout and still be deceived. A prophet could be sincere and still be manipulated. A miracle could move a crowd and still be false.
+A church with an assigned Scriptor is generally considered part of the recognised religious order of Arkhaven. A church without one may be newly founded, minor, politically marginal, heretical, or outside the accepted structure of religious authority.
 
-The elven houses of the south-western forests offered a solution. Their scholars had preserved records that predated many human kingdoms, and their mage-scribes were already trained in language, illusion, enchantment, divination, ritual theory, and historical comparison. Over time, this arrangement became formalised as the **Scriptor Compact**.
+## Purpose
 
-Under the Compact, each recognised head of a major church is granted a Scriptor from the elven academies. Their appointment is not only practical, but symbolic. A church with a Scriptor is seen as part of the lawful religious order of Arkhaven. A church without one may be considered new, minor, politically inconvenient, heretical, or dangerous.
+The main purpose of the Scriptor Compact is to preserve religious continuity.
+
+Scriptors are expected to maintain accurate records of church decisions, councils, reforms, disputes, visions, trials, and doctrinal rulings. They compare current practice with older records and advise church leaders when doctrine appears to have shifted, been mistranslated, or been altered for political reasons.
+
+Their role is not to rule the church. They do not normally appoint priests, command congregations, or decide matters of worship by themselves. Their authority comes from memory, training, and recognised procedure.
+
+In practice, however, their influence can be considerable. A Scriptor who refuses to endorse a religious ruling, miracle, relic, succession, or trial can create a serious political and theological problem.
+
+## Origins
+
+The Compact developed after the religious crises associated with [War of the False Saints](War%20of%20the%20False%20Saints.md).
+
+During that period, churches and kingdoms were destabilised by false miracles, forged relics, staged visions, altered scripture, invented saints, and arcane deception presented as divine will. The crisis showed that sincere belief was not enough to protect a faith from manipulation.
+
+After the war, surviving religious authorities accepted the need for trained witnesses who could examine miracles, compare records, detect magical deception, and preserve doctrine beyond the lifespan of individual priests or rulers.
+
+The elven houses of the south-western forests were well placed to provide these advisors. Their archives had survived events that destroyed or obscured many other records, and their mage-scribes were already trained in language, law, history, ritual practice, illusion, enchantment, divination, and textual comparison.
+
+Over time, this arrangement became formalised as the Scriptor Compact.
 
 ## The Elven Houses of the South-West
 
-Most Scriptors come from the deep south-western forests of Arkhaven, a region of dense temperate woodland and ancient rainforests. These forests are old enough to be treated with caution even by the elves themselves.
+Most Scriptors are trained by elven houses based in the south-western forests. These communities are strongly associated with [The Green Silence](The%20Green%20Silence.md), the ancient event that transformed the forest region and resulted in the loss or concealment of many earlier histories.
 
-The elven settlements there are not simply woodland towns. They are archive-cities, memory houses, scriptoria, observatories, temple-libraries, and academies built among vast trees, moss-covered stone, and old ruins. Their culture values continuity, record-keeping, careful speech, and the preservation of dangerous knowledge.
+The elven settlements of the south-west are not simply woodland towns. They include archive-cities, memory houses, scriptoria, observatories, temple-libraries, and academies. Their culture places high value on continuity, careful record-keeping, precise language, and the controlled preservation of dangerous or contested knowledge.
 
-The south-west is also closely tied to [The Green Silence](The%20Green%20Silence.md), the great event in which the forest swallowed roads, cities, armies, and histories. To outsiders, the elves are survivors of that disaster. To some, they may have been its cause. To the elves, it is remembered less as a single event and more as a wound that never fully closed.
+This background gives the elves considerable authority in religious and historical matters. It also makes them the subject of suspicion. Some people believe the elves preserve truths that would otherwise be lost. Others believe they control access to histories that should not belong to them alone.
 
-Because of this, Scriptors are taught to see history as something fragile. A kingdom can rewrite its founding myth. A church can edit a saint. A ruler can burn a record. But an elf who remembers the original words is harder to erase.
+Both views exist across Arkhaven.
 
-## Training of a Scriptor
+## Appointment
 
-The education of a Scriptor usually takes centuries. A candidate may begin as a copyist, translator, or ritual attendant before progressing into deeper study.
+A Scriptor is usually assigned to a recognised head of church, such as a high priest, archbishop, oracle, pontiff, hierophant, or equivalent religious authority.
 
-Their training commonly includes:
+The appointment is both practical and symbolic. Practically, the Scriptor provides expertise in doctrine, law, history, ritual, and magic. Symbolically, their presence confirms that the church is recognised within the wider religious order.
 
-- Theology across multiple recognised faiths
+The exact process of appointment varies between faiths. Some churches request a Scriptor from the elven houses. Others receive one as part of long-standing agreements. In some cases, the appointment of a Scriptor is expected before a church leader is considered fully legitimate.
+
+A church that refuses a Scriptor may be viewed with concern. A church that harms, imprisons, or kills one may be denied a replacement, which can damage its religious standing.
+
+## Training
+
+The education of a Scriptor usually takes centuries.
+
+A candidate may begin as a copyist, translator, ritual assistant, or archive student before progressing into formal theological and magical study. Training is designed to produce a reliable witness rather than a believer.
+
+Common areas of study include:
+
+- Theology across recognised faiths
 - Ancient and modern languages
 - Religious law and church procedure
 - Arcane theory and spellcraft
@@ -56,138 +75,158 @@ Their training commonly includes:
 - Planar lore and the nature of divine magic
 - Methods of testimony, interrogation, and witness examination
 
-The intention is not to create believers. It is to create witnesses.
+The result is a specialist who can understand what a church teaches, how that teaching has changed, and whether current doctrine matches the surviving record.
 
-A Scriptor is expected to know what a church claims, what it once claimed, what it has hidden, and where the differences lie.
+## Faith and Religious Detachment
 
-## Faith and Detachment
+A Scriptor is not required to follow the religion they serve.
 
-A Scriptor is not required to believe in the religion they serve.
+This is one of the most debated features of the Compact. Supporters argue that a degree of detachment allows the Scriptor to advise without being consumed by zeal, factional loyalty, or personal devotion. Critics argue that placing a non-believer beside the head of a church gives too much influence to an outsider.
 
-This is one of the most controversial parts of the Compact. Many church leaders value the detachment of their elven advisor, believing that an outsider is better placed to preserve doctrine without being consumed by zeal. Others resent it deeply. To them, a non-believer standing beside the head of the faith is an insult, or worse, a quiet form of elven control.
+Most Scriptors remain personally separate from the faiths they serve. They may respect the church, understand its rituals, defend its lawful authority, and preserve its doctrine without worshipping its deity.
 
-Most Scriptors remain personally separate from the faiths they serve. They may respect the church, understand its rituals, and defend its lawful authority, but they do not necessarily worship its god.
+Conversion is possible but rare. When a Scriptor converts to the faith they serve, it is treated as significant. Such conversions usually follow long periods of service, observation, argument, and personal reflection. They may be celebrated by the church, questioned by the elven houses, or viewed politically by both.
 
-Some do convert. This is rare and treated as significant. An elven conversion is not usually sudden, emotional, or convenient. It tends to come after decades or centuries of service, argument, doubt, and observation. When a Scriptor truly adopts the faith they serve, both the church and the elven houses take notice.
+A converted Scriptor can become a powerful symbol, but also a source of tension.
 
-Such conversions can become politically dangerous. A converted Scriptor may be celebrated as proof of divine truth, condemned as compromised, or feared as someone whose loyalty has shifted from memory to belief.
+## Duties
 
-## Duties of a Scriptor
+The duties of a Scriptor vary by church, but most include record-keeping, doctrinal advice, ritual observation, translation, and magical examination.
 
-The normal duties of a Scriptor vary by church, but most include the following responsibilities.
+A Scriptor may be responsible for:
 
-A Scriptor records the decisions, decrees, visions, councils, trials, and reforms of the church. They maintain copies of holy texts and compare new versions against older manuscripts. They advise the church head on matters of doctrine, history, magical influence, relic authenticity, prophecy, and ritual accuracy.
+- Recording church councils, rulings, trials, and reforms
+- Maintaining copies of holy texts
+- Comparing current doctrine against older records
+- Advising on religious law and precedent
+- Translating ancient scripture
+- Examining relics or disputed sacred objects
+- Investigating claims of magical influence
+- Witnessing major rituals
+- Advising on prophecy, visions, and miracles
+- Preserving records of succession and authority
 
-They may also serve as interpreters of ancient scripture, especially where meanings have shifted over time or where old words carry legal or theological consequences.
+Scriptors are especially important when a church faces a disputed miracle, a contested succession, a doctrinal split, or an accusation of heresy.
 
-In public, a Scriptor is often quiet. They stand beside the church head, speak rarely, and observe everything. Their silence is part of their authority. The faithful may not always know what the Scriptor believes, but they know the Scriptor remembers.
+## Authority
+
+A Scriptor’s authority is advisory, archival, and procedural.
+
+They do not normally command the church directly. Their influence comes from their recognised role as witness and keeper of record. Because they preserve institutional memory, their objections can carry serious weight.
+
+A Scriptor may not be able to overrule a church leader, but they can record dissent, refuse endorsement, identify contradictions, and report irregularities to the elven houses or wider religious authorities.
+
+This makes them valuable to honest churches and inconvenient to corrupt ones.
 
 ## Inquisitor-Scriptors
 
-#inquisition #heresy #church_law
+In some churches, a Scriptor may be granted a second office as an [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md).
 
-In some faiths, the Scriptor is granted a second office: **Inquisitor-Scriptor**.
+This role gives the Scriptor formal authority to investigate heresy, cult activity, false prophecy, forged relics, magical fraud, doctrinal corruption, possession, blasphemous texts, and religious sedition.
 
-This role is based on the belief that false doctrine is not merely a spiritual problem, but a threat to public order, divine law, and the safety of the realm. An Inquisitor-Scriptor is empowered to investigate heresy, cult activity, false prophecy, magical fraud, forged relics, doctrinal corruption, possession, blasphemous texts, and religious sedition.
+Not all churches allow this. Some faiths consider inquisitorial power necessary after the disasters of the War of the False Saints. Others see it as a dangerous corruption of the Scriptor’s purpose.
 
-Their authority is legal as well as spiritual. Within the lands that recognise the church, they may be permitted to question suspects, inspect private records, compel testimony, seize forbidden writings, examine relics, and detain individuals under church law.
-
-In harsher churches, they may also be authorised to extract information by force, intimidation, sensory manipulation, or controlled magical pressure. This is where the office becomes feared.
-
-Not all churches allow this. Some faiths consider inquisitorial power necessary. Others see it as a corruption of religious duty. Among the elves, there is an old argument over whether a Scriptor should ever become an instrument of enforcement. One side claims that truth must sometimes be defended with authority. The other claims that the moment a witness becomes a weapon, their testimony is compromised.
+Among the elves, the role remains controversial. One view holds that truth must sometimes be defended through investigation and legal authority. The opposing view holds that a Scriptor who becomes an instrument of enforcement can no longer be a neutral witness.
 
 ## Methods of Investigation
 
-The best Inquisitor-Scriptors are not crude torturers. They are investigators.
+Where a Scriptor has investigative duties, their methods are usually formal and evidence-based.
 
-Their methods may include cross-examination, document comparison, magical residue analysis, illusion-breaking, ritual reconstruction, witness mapping, dream testimony, and the use of divination under strict procedure.
+Common methods include:
 
-Illusion magic has a particular place in the office. After the [War of the False Saints](War%20of%20the%20False%20Saints.md), illusion became both a suspect art and a necessary tool. An illusionist inquisitor understands deception because they study its shape. They can expose staged miracles, recreate a crime scene, test the consistency of a confession, disguise themselves to enter a cult, or reveal how a crowd was manipulated.
+- Cross-examination
+- Document comparison
+- Relic examination
+- Magical residue analysis
+- Detection of illusion or enchantment
+- Ritual reconstruction
+- Witness mapping
+- Divination under controlled procedure
+- Review of earlier Scriptor records
+- Comparison of oral testimony against written doctrine
 
-This creates one of the central contradictions of the office:
+The most respected Scriptors are careful investigators rather than zealots. Their purpose is to establish what can be known, what is uncertain, and what has been altered.
 
-An Inquisitor-Scriptor may be trained in lies in order to protect the truth.
-
-## Public Perception
-
-Common people tend to have mixed feelings about Scriptors.
-
-To the devout, a Scriptor can be reassuring. Their presence suggests that the church is lawful, recognised, and protected against corruption. They are living proof that doctrine has not simply been invented yesterday.
-
-To the fearful, they are cold watchers from the old forests. They do not age as humans do. They do not forget. They stand beside bishops and pontiffs, writing down sins in perfect script.
-
-To ambitious priests, they are obstacles. A Scriptor may remember a promise made by a previous archbishop, expose an edited passage, or refuse to endorse a convenient reinterpretation of doctrine.
-
-To rulers, they are useful but dangerous. A church with a loyal Scriptor has legitimacy. A church whose Scriptor refuses to approve a coronation, trial, or holy war can become a political nightmare.
+Illusion magic is treated with particular caution. After the War of the False Saints, illusion became associated with false miracles and religious manipulation. At the same time, those trained in illusion are often best equipped to recognise staged visions, false apparitions, and manipulated witnesses.
 
 ## Relationship with the Churches
 
-The relationship between a church head and their Scriptor can vary greatly.
+The relationship between a church and its Scriptor depends on the faith, the church leader, and the political situation.
 
-Some are close companions, having served together for decades. Others are polite enemies. Some church heads trust their Scriptor more than their own clergy. Others treat them as spies imposed by elven powers.
+Some church heads treat their Scriptors as trusted advisors. Others view them as imposed observers, elven spies, or obstacles to reform. Some rely on them for legal and theological continuity. Others attempt to isolate or ignore them.
 
-A wise church leader understands that a Scriptor cannot easily be commanded. They advise, record, and witness. They do not exist to flatter.
+A Scriptor may serve the same church through several generations of human leadership. This gives them a perspective that few priests possess. They may remember promises, compromises, reforms, and scandals that later clergy would prefer to forget.
 
-Where the office works well, the Scriptor protects the church from its own worst impulses. Where it fails, the Scriptor becomes either a silent accomplice or an enemy within the walls.
+Where the relationship works well, the Scriptor protects the church from confusion, corruption, and short-term ambition. Where it fails, the Scriptor may become a silent accomplice, a political hostage, or an internal opponent.
 
 ## Relationship with the Elven Houses
 
-The elven houses do not see Scriptors as servants of the churches. They see them as custodians sent into the world.
+The elven houses do not generally regard Scriptors as servants of the churches. They are considered custodians sent into the wider world.
 
-A Scriptor's first loyalty is usually to truth, memory, and the Compact itself. This can clash with the expectations of the church they serve. It can also cause conflict with human rulers, who often assume that every advisor must belong to someone.
+A Scriptor’s first loyalty is usually understood to be truth, memory, and the Compact itself. This can conflict with the expectations of the church they serve, especially when doctrine and historical record do not agree.
 
-The elven houses maintain records of every Scriptor assignment, including the churches they served, the doctrines they witnessed, the heresies they investigated, and the conversions or failures that marked their service.
+The elven houses maintain records of Scriptor assignments, including the churches served, major disputes witnessed, heresies investigated, doctrinal changes recorded, and conversions or failures associated with the office.
 
-A Scriptor who abuses their office can be recalled. A church that murders or imprisons its Scriptor may be denied a replacement. In some cases, this is enough to make neighbouring realms question whether that church is still legitimate.
+A Scriptor who abuses their position may be recalled. A church that mistreats a Scriptor may lose access to future appointments. In some regions, this can seriously damage the church’s legitimacy.
 
-## Links to the Great Events of Arkhaven
+## Public Perception
 
-The Scriptor Compact cannot be understood without the three great wounds of Arkhaven's history.
+Public opinion of Scriptors is mixed.
 
-### [The Godscar](The%20Godscar.md)
+To many worshippers, a Scriptor is a sign that a church is recognised, lawful, and protected against false doctrine. Their presence suggests that the faith has continuity and that its records are being preserved.
 
-#godscar #cataclysm #geography
+To others, Scriptors are unsettling. They are long-lived, usually elven, often detached from the faith they serve, and closely associated with church authority. Common people may respect them without trusting them.
 
-[The Godscar](The%20Godscar.md) is the name given to the vast vertical crevasses that split the continent from north to south. These wounds in the land are filled with deep lakes, drowned valleys, sheer cliffs, narrow crossings, fjords, and ancient ruins lost beneath the water.
+Priests and rulers also view them differently depending on circumstance. A Scriptor can provide legitimacy, preserve useful precedent, and expose fraud. They can also obstruct political convenience, challenge edited doctrine, or refuse to support a popular but historically weak claim.
 
-To common folk, the Godscar is proof that the gods once touched the world directly, whether in wrath, grief, battle, or sacrifice. To scholars, it remains the greatest unresolved mystery in recorded history.
+The same qualities that make them valuable make them difficult to control.
 
-The churches disagree violently over its meaning. Some teach that it was divine punishment. Others claim it was a sacrifice that saved the world. Heretical sects whisper that it is not a scar at all, but a doorway.
+## Relationship to The Godscar
 
-For Scriptors, the Godscar matters because every church has tried to claim it. Sacred histories were rewritten around it. Prophecies were attached to it. Relics were said to have been found beside it. Pilgrimages, borders, wars, and holy claims all grew from the same wound in the earth.
+[The Godscar](The%20Godscar.md) is one of the most important subjects of Scriptor study.
 
-A Scriptor assigned to a church near the Godscar must often determine which traditions are ancient, which are political, and which are outright lies.
+The Godscar is central to many religious traditions in Arkhaven. Churches have used it to support claims of divine punishment, sacrifice, judgement, salvation, sealed evil, and sacred authority. These interpretations often conflict.
 
-### [War of the False Saints](War%20of%20the%20False%20Saints.md)
+Scriptors are frequently required to examine claims connected to the Godscar, especially where relics, prophecies, pilgrimages, miracles, or territorial rights are involved.
 
-#false_saints #heresy #illusion_magic
+The Godscar matters to the Compact because it shows how a single ancient event can produce many competing religious truths. It is a major example of why long-term record-keeping and careful interpretation are considered necessary.
 
-The [War of the False Saints](War%20of%20the%20False%20Saints.md) was the great religious disaster that made the Scriptor Compact necessary.
+## Relationship to War of the False Saints
 
-During this period, mortals learned how to manufacture the appearance of divine authority. False miracles were staged. Saints were invented. Relics were forged. Visions were induced through magic. Prophecies were edited after the fact. Entire armies marched under banners blessed by voices that were never divine.
+The Scriptor Compact is one of the major institutional consequences of the War of the False Saints.
 
-No single kingdom began the war. No single church ended it. The horror of the age was that everyone believed they were defending the truth.
+The war demonstrated that churches could be manipulated through false miracles, altered texts, manufactured saints, and magical deception. It also showed that religious certainty could become dangerous when not supported by evidence, witnesses, and reliable records.
 
-The war left Arkhaven deeply suspicious of religious certainty without record, ritual, and witness. It also changed the reputation of illusion magic forever. Illusion was no longer seen only as trickery or theatre. It became a weapon that had once moved nations.
+The Compact was created to reduce the chance of a similar crisis happening again. Scriptors became responsible for checking claims, preserving doctrine, and providing churches with trained advisors who could recognise historical or magical irregularities.
 
-The Scriptor Compact grew from this fear. Churches accepted elven mage-advisors because they needed scholars who could recognise false visions, detect magical manipulation, compare old doctrine against new claims, and stand outside the frenzy of human belief.
+The office of Inquisitor-Scriptor developed from the same concern, although it remains more controversial.
 
-The Inquisitor-Scriptor role also descends from this period. At its best, it exists to prevent another age of false saints. At its worst, it repeats the same violence in the name of prevention.
+## Relationship to The Green Silence
 
-### [The Green Silence](The%20Green%20Silence.md)
+The Green Silence is closely linked to the authority of the Compact.
 
-#green_silence #elves #ancient_forest
+The event caused or coincided with the loss of many roads, settlements, records, and histories in the south-western forests. Afterward, elven archives became some of the most important surviving sources for older history.
 
-[The Green Silence](The%20Green%20Silence.md) is the name given to the ancient disaster that transformed the south-western forests.
+This gave the elves a major role in preserving and interpreting the past. It also gave the Compact a strong practical justification: if history can vanish, someone must be trained to preserve it.
 
-Before the Silence, that region contained roads, cities, towers, temples, and archives belonging to several peoples. Then the forest changed. It advanced without fire, army, or storm. Roots broke stone. Roads vanished beneath moss. Towers disappeared behind bark and vine. Settlements were swallowed so completely that later maps argued over whether they had ever existed.
+The Green Silence remains a source of both credibility and suspicion for the elven houses. Their records are valuable because they survived, but their control over those records raises political and religious questions.
 
-The elves survived within the forest, though whether they endured the Green Silence, caused it, or bargained with it remains uncertain. What is known is that after the event, the elven houses emerged as the greatest preservers of memory in Arkhaven.
+## Importance in Arkhaven
 
-Their archive-cities now stand in the deep woods, surrounded by living forest and buried ruins. They train the Scriptors who travel across the continent to serve the churches. Some say this is an act of penance. Some say it is an act of control. The elves rarely correct either claim.
+The Scriptor Compact is one of the main structures linking religion, magic, law, and history in Arkhaven.
 
-For the Scriptors, the Green Silence is their inheritance. It teaches that history can vanish. Not metaphorically, but physically. A road can be eaten. A city can be forgotten. A god can lose their name.
+It affects how churches are recognised, how doctrine is preserved, how miracles are investigated, and how ancient events are interpreted. It also gives the elves an important role beyond their own homelands, placing them inside the highest levels of religious authority across the continent.
 
-This is why they write.
+The Compact does not eliminate corruption or conflict. It does, however, create a formal system for memory, scrutiny, and continuity.
 
+In a continent shaped by lost histories, false saints, divine wounds, and disputed truths, the Scriptor exists to make forgetting more difficult.
 
+## Current Status
+
+The Scriptor Compact remains active across much of Arkhaven.
+
+Most major churches accept the presence of Scriptors, although the degree of cooperation varies. Some faiths treat them as honoured advisors. Others tolerate them as a requirement of legitimacy. A few distrust them openly while still relying on their authority.
+
+The future of the Compact is not guaranteed. Its influence depends on the continued cooperation of churches, rulers, and elven houses. Disputes over doctrine, religious independence, inquisitorial authority, or access to elven archives could all threaten its stability.
+
+For now, the Compact remains one of the most respected and contested institutions in Arkhaven.

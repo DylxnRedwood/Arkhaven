@@ -1,7 +1,5 @@
 # The Godscar
 
-#lore #cataclysm #geography #mythology #arkhaven
-
 The **Godscar** is a major geological and religious feature of [Arkhaven](../../Locations/Continents/Arkhaven.md). It consists of a chain of vast vertical crevasses, deep rifts, lakes, drowned valleys, fjords, cliffs, and broken waterways that divide large areas of the continent.
 
 The Godscar is not a single canyon or river system. It is a connected series of fractures running through different landscapes, including plains, forests, mountains, lowlands, and coastal regions. Its shape, depth, width, and appearance vary considerably along its length.
@@ -131,7 +129,7 @@ The oldest surviving records are believed to be held partly by the [Elves](../..
 
 ## Relationship to The Scriptor Compact
 
-[The Scriptor Compact](The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
+The Scriptor Compact is closely connected to the study and interpretation of the Godscar.
 
 Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar proves their theology, supports their authority, or validates their sacred history.
 
@@ -141,9 +139,7 @@ An [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) ma
 
 ## Relationship to War of the False Saints
 
-#false_saints #religion #heresy
-
-The [War of the False Saints](War%20of%20the%20False%20Saints.md) had a major effect on how religious authorities treat claims associated with the Godscar.
+The War of the False Saints had a major effect on how religious authorities treat claims associated with the Godscar.
 
 During that period, false prophets and manufactured saints repeatedly used the Godscar as a source of legitimacy. Some claimed visions connected to the scar. Others presented relics, staged miracles, or announced prophecies concerning its origin or future.
 
@@ -151,9 +147,7 @@ As a result, modern churches are cautious about new miracles, relics, or revelat
 
 ## Relationship to The Green Silence
 
-#green_silence #elves #ancient_history
-
-[The Green Silence](The%20Green%20Silence.md) is not generally considered part of the same event as the Godscar, but the two are often compared.
+The Green Silence is not generally considered part of the same event as the Godscar, but the two are often compared.
 
 Both events changed the shape and history of Arkhaven. Both are surrounded by incomplete records, religious interpretation, and conflicting traditions. The Godscar is usually understood as an event of rupture, exposure, and division. The Green Silence is usually understood as an event of concealment, overgrowth, and disappearance.
 

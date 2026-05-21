@@ -1,306 +1,269 @@
----
-title: War of the False Saints
-continent: Arkhaven
-tags:
-  - lore
-  - religion
-  - cataclysm
-  - ancient-history
-  - false-saints
-  - heresy
----
 # War of the False Saints
 
-#lore #religion #cataclysm #heresy #false_saints #arkhaven
+The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](../../Locations/Continents/Arkhaven.md). The name refers to a series of related crises in which disputed holy figures, fabricated miracles, forged relics, altered doctrine, and religious propaganda were used to influence churches, rulers, and civilian populations.
 
-The **War of the False Saints** was not one war, not really. It was a long collapse of trust.
+Despite the name, it was not a single war fought between two sides. It was a broad period of unrest involving separate regional conflicts, church schisms, local uprisings, accusations of heresy, contested sainthood, and the misuse of religious authority.
 
-It began with miracles.
+The War of the False Saints is one of the main historical causes behind the creation of [The Scriptor Compact](The%20Scriptor%20Compact.md).
 
-Some were small enough to be believed without question: a wound closing beneath a priest's hand, a candle burning blue before a shrine, a farmer dreaming of rain before the clouds arrived. Others were too grand to ignore: saints speaking after death, relics bleeding in public, armies led by visions, and holy figures claiming direct command from the gods.
+## Summary
 
-At first, people wanted to believe. In a land already shaped by [The Godscar](The%20Godscar.md), divine signs carried enormous weight. A miracle near the scar, or a prophecy concerning it, could move pilgrims, kings, soldiers, and entire churches.
+The War of the False Saints occurred after the religious traditions of Arkhaven had already become heavily shaped by [The Godscar](The%20Godscar.md). The Godscar was interpreted differently by different churches, and those interpretations became important sources of religious legitimacy.
 
-Then the contradictions began.
+This made claims of divine favour especially powerful. A person believed to be a saint could influence law, succession, military action, pilgrimage, taxation, public order, and church doctrine.
 
-One saint spoke for [Tyr](Tyr.md). Another claimed [Tyr](Tyr.md) had been deceived. A prophet of [Lathander](Lathander.md) declared a new dawn, while a rival vision in the name of [Amaunator](Amaunator.md) demanded old law restored. A supposed martyr of [Ilmater](Ilmater.md) called for mercy, but another used the same god's suffering as an excuse for holy violence. A hidden oracle spoke in the voice of [Savras](Savras.md), while illusionists later proved the voice had been manufactured.
+The conflict escalated when multiple churches, rulers, and local movements promoted rival saints whose claims contradicted one another. Some of these figures were deliberate frauds. Others were sincere religious figures later misused by their followers. A smaller number appear to have been genuine high-ranking devotees or miracle-workers whose reputations became politically dangerous after their deaths.
 
-The age became impossible to untangle. Some miracles were real. Some were false. Some began as lies and later attracted true faith. Some were arcane tricks. Some were divine signs misunderstood by desperate people. Some may have come from darker powers wearing holy masks.
+The central issue was not the existence of divine power. The central issue was verification.
 
-The War of the False Saints was the period when Arkhaven learned that belief could be weaponised.
+## Definition of a False Saint
 
-## The World After The Godscar
+A **false saint** is a religious figure whose holiness, miracles, authority, or divine appointment was later judged to be fraudulent, exaggerated, politically manufactured, or doctrinally unsafe.
 
-The War of the False Saints did not happen in an ordinary world. It happened in a land already marked by [The Godscar](The%20Godscar.md).
+The term is not always precise. Historical records use it for several different types of figure:
 
-The Godscar had left Arkhaven with a wound that every faith wanted to explain. Churches taught that it was punishment, sacrifice, judgement, salvation, a sealed evil, or proof of divine war. No single doctrine could silence the others.
+- Invented saints who never existed
+- Real people given false miracles after death
+- Clerics who knowingly staged miracles
+- Devout figures manipulated by churches or rulers
+- Local martyrs later rejected by central religious authorities
+- Miracle-workers whose actions were judged harmful
+- Saints condemned for political rather than theological reasons
 
-In Arkhaven, that divine ordering is understood through local history, and many scholars draw comparisons between the restoration of the gods and the ancient upheaval that created the Godscar.
+Because of this, modern Scriptors do not automatically treat every condemned saint as a fraud. The classification of a saint is treated as a matter of evidence, record, and doctrine.
 
-The gods were present. The gods were powerful. The gods could return, vanish, change, or be misunderstood.
+## Causes
 
-That uncertainty created fertile ground for false saints.
+The War of the False Saints had several main causes.
 
-If [Mystra](Mystra.md) could die and return, if [Shaundakul](Shaundakul.md) could disappear and return, if old powers could be restored after cosmic upheaval, then why could a new saint not rise from the edge of the Godscar? Why could a dead prophet not speak again? Why could a forgotten relic not bear new truth?
+### Religious Competition
 
-The answer, as Arkhaven learned too late, was that they could.
+Major churches held competing interpretations of ancient events, especially the Godscar. This created an environment where new holy claims could be used to support one doctrine over another.
 
-But so could liars.
+### Political Legitimacy
 
-## What Made a False Saint
+Rulers and noble houses used saints, relics, and prophecies to justify claims to land, succession, war, or taxation. A recognised saint could make a political cause appear divinely approved.
 
-A false saint was not always a fraud from the beginning.
+### Weak Historical Records
 
-Some were deliberate deceivers. They used illusion, enchantment, staged relics, false witnesses, altered scripture, and political backing to create the appearance of divine favour.
+Before the Scriptor Compact became widespread, many churches had inconsistent record-keeping. This allowed old texts to be altered, prophecies to be backdated, relic histories to be invented, and local traditions to be absorbed into official doctrine without proper verification.
 
-Some were tools of churches or rulers. A king needing legitimacy could discover a saint. A bishop needing authority could produce a prophecy. A rebel movement could claim a martyr. A city could invent a miracle to draw pilgrims and wealth.
+### Magical Fraud
 
-Some were victims. Visions may have been placed in their minds. Dreams may have been shaped by magic. Voices may have been created by priests, devils, gods, or mortals with enough ambition.
+Magic was used in some cases to create or support false religious evidence. Recorded methods included staged visions, illusionary apparitions, false voices, manipulated witnesses, enchanted relics, and forged scriptural signs.
 
-Some may have genuinely touched the divine and then been twisted by the people around them.
+### Lost or Restricted Knowledge
 
-This is why the war remains so difficult to study. Calling every saint from that age false is too simple. Calling them all true is worse.
+The historical gaps associated with [The Green Silence](The%20Green%20Silence.md) made certain claims difficult to confirm or disprove. Figures claiming authority from lost forest shrines, buried records, or pre-Silence traditions were especially difficult to investigate.
 
-The danger of the age was not that nobody believed in the gods.
+## Nature of the Conflict
 
-The danger was that everybody did.
+The War of the False Saints included both military and non-military conflict.
 
-## The Deities and Their Churches
+Known forms of conflict included:
 
-The War of the False Saints touched nearly every major faith in Arkhaven. Some gods were invoked by genuine followers. Others were used as masks by opportunists. Some churches suffered from false saints more than they created them.
+- Church schisms
+- Rival saint cults
+- Local revolts
+- Holy wars
+- Religious trials
+- Suppression of heresy
+- Political assassinations
+- Destruction of shrines
+- Relic forgery
+- Public executions
+- Scriptural alteration
+- Magical impersonation
+- Forced conversion
+- Doctrinal purges
+- Armed pilgrimages
 
-Below are the broad associations most often discussed by Scriptors and historians.
+Some regions experienced open warfare. Others experienced decades of trials, denunciations, sectarian tension, and institutional collapse.
 
-## Gods of Law, Duty, and Judgement
+## Role of Religious Institutions
 
-Faiths devoted to [Tyr](Tyr.md), [Torm](Torm.md), [Helm](Helm.md), and [Amaunator](Amaunator.md) were especially vulnerable to claims of legal or moral certainty.
+The major churches of Arkhaven were affected in different ways.
 
-A false saint of [Tyr](Tyr.md) could accuse entire towns of hidden crimes. A forged vision of [Torm](Torm.md) could demand impossible loyalty from soldiers and paladins. In the name of [Helm](Helm.md), watchmen and guardians could be convinced that vigilance required cruelty. Under the banner of [Amaunator](Amaunator.md), law could be made sacred even when it served only the powerful.
+Some churches promoted false saints directly. Others failed to stop local branches from doing so. Some were victims of forged doctrine or manipulated relics. Others later exaggerated the role of hostile cults to hide their own involvement.
 
-These faiths did not all fall to corruption, but their language was easy to weaponise. Justice, duty, vigilance, and law are noble things when rightly used. In the wrong hands, they become chains.
+The crisis exposed a major weakness in religious authority: a church could be sincere and still be wrong. A priest could believe a miracle and still be deceived. A ruler could support a saint out of genuine faith and still cause war.
 
-Many of the harshest inquisitorial courts from the war claimed to act in the names of these gods.
+This failure led directly to later reforms in record-keeping, relic examination, miracle verification, and the use of Scriptors.
 
-## Gods of Mercy, Renewal, and Peace
+## Role of Magic
 
-The churches of [Ilmater](Ilmater.md), [Lathander](Lathander.md), [Chauntea](Chauntea.md), [Eldath](Eldath.md), [Lliira](Lliira.md), and [Sune](Sune.md) were often used in a different way.
+Magic was not the only cause of the war, but it was a major enabling factor.
 
-Their false saints did not always call for war. Some called for healing, rebirth, sanctuary, celebration, love, or forgiveness. That made them easier to trust.
+Illusion magic was particularly important because it could be used to create visible signs of divine presence. Enchantment was used in some cases to influence witnesses. Divination was sometimes misrepresented, selectively interpreted, or falsified after events had already occurred.
 
-A false saint of [Ilmater](Ilmater.md) might gather the suffering and teach them that endurance required obedience to a particular priest. A false prophet of [Lathander](Lathander.md) might declare that an old order must be burned away for a new dawn to rise. A supposed voice of [Chauntea](Chauntea.md) might bless land seizures as sacred cultivation. A miracle of [Eldath](Eldath.md) might be used to disarm victims before betrayal.
+Common fraudulent methods included:
 
-Even gentle doctrines can become dangerous when someone claims the gods have made them the only interpreter of mercy.
+- Apparitions of saints or gods
+- False lights around relics
+- Voices heard in shrines
+- Wounds that appeared or vanished during rituals
+- Manufactured visions
+- Altered memories
+- Forged divine script
+- False prophetic dreams
+- Relics producing staged effects
 
-This is one of the lessons most often repeated by modern Scriptors: peaceful language does not guarantee peaceful intent.
+After the war, illusion magic became more closely regulated in religious settings. It was not universally banned, but its use near shrines, relics, trials, or public miracles became grounds for suspicion.
 
-## Gods of Knowledge, Magic, and Art
+Ironically, trained illusionists later became useful investigators because they understood how false miracles could be produced.
 
-The faiths of [Mystra](Mystra.md), [Azuth](Azuth.md), [Oghma](Oghma.md), [Deneir](Deneir.md), [Milil](Milil.md), [Gond](Gond.md), and [Savras](Savras.md) were central to the crisis.
+## Notable Disputed Saints
 
-The war could not have spread as it did without magic, records, invention, song, symbols, and prophecy. False saints needed texts, seals, visions, rituals, songs, maps, relic-cases, forged glyphs, copied scripture, and magical displays. These are the tools of civilisation, but they are also the tools of deception.
+The following figures are among the better-known individuals associated with the War of the False Saints. These examples are not a complete list.
 
-[Mystra](Mystra.md) and [Azuth](Azuth.md) were invoked by mages who claimed their spellcraft had divine sanction. [Savras](Savras.md) was invoked by oracles, judges, and diviners, some honest and some not. [Deneir](Deneir.md) and [Oghma](Oghma.md) were pulled into bitter arguments over truth, record-keeping, and the preservation or destruction of disputed texts. [Gond](Gond.md) was blamed for devices used to create artificial miracles. [Milil](Milil.md) was invoked by singers whose hymns made false saints beloved by the masses.
+### [Saint Arveth of the Open Hand](../../Lore/Historical%20Figures/Saint%20Arveth%20of%20the%20Open%20Hand.md)
 
-The churches of knowledge did not simply watch the war. They became its battleground.
+**Status:** Generally accepted as genuine  
+**Associated tradition:** Mercy, endurance, and aid to the suffering  
+**Historical role:** Relief priest and battlefield healer
 
-This is one of the direct roots of [The Scriptor Compact](The%20Scriptor%20Compact.md).
+Saint Arveth of the Open Hand was a high-ranking devotee known for treating civilians and soldiers during one of the early regional conflicts. Contemporary records describe him as refusing payment, ransom, or political favour for healing.
 
-## Gods of Nature, Hunt, and the Wild
+After his death, several factions attempted to claim Arveth as their patron. Later investigation found no strong evidence that Arveth had supported those factions during life. His sainthood is generally accepted, but many later uses of his name are considered false attribution.
 
-The faiths of [Silvanus](Silvanus.md), [Mielikki](Mielikki.md), [Malar](Malar.md), [Gwaeron Windstrom](Gwaeron%20Windstrom.md), and sometimes [Chauntea](Chauntea.md) became entangled in rural uprisings, forest visions, and claims tied to [The Green Silence](The%20Green%20Silence.md).
+### [Maerwyn of the Silver Flame](../../Lore/Historical%20Figures/Maerwyn%20of%20the%20Silver%20Flame.md)
 
-False saints emerged from woods, groves, old stones, and swallowed ruins. Some claimed that the deep forest had chosen them. Some said the gods of the wild had rejected civilisation. Others claimed to have found relics beneath roots or heard divine voices in places abandoned since the Green Silence.
+**Status:** Condemned as fraudulent  
+**Associated claim:** Purification by divine fire  
+**Historical role:** Charismatic preacher and cult leader
 
-A supposed servant of [Mielikki](Mielikki.md) might lead frightened villagers into the woods for protection. A false champion of [Silvanus](Silvanus.md) might call for settlements to be torn down. A cult invoking [Malar](Malar.md) could turn hunts into ritual slaughter. Followers of [Gwaeron Windstrom](Gwaeron%20Windstrom.md) were sometimes drawn into disputes over tracking saints, fugitives, or heretics through wild lands.
+Maerwyn of the Silver Flame claimed to receive visions through silver fire that appeared during public sermons. Her followers used these visions to identify supposed heretics, several of whom were executed.
 
-Because the Green Silence had already erased so much history, claims from the forest were hard to disprove.
+A later investigation concluded that the flames were produced by controlled arcane effects and prepared materials hidden within ritual vessels. Maerwyn was condemned as a deliberate fraud. Her movement continued in isolated areas for several generations after her death.
 
-## Gods of War, Strategy, and Vengeance
+### [Lord-Caliph Sered Vant](../../Lore/Historical%20Figures/Lord-Caliph%20Sered%20Vant.md)
 
-The gods [Tempus](Tempus.md), [Red Knight](Red%20Knight.md), and [Hoar](Hoar.md) became rallying points once the crisis turned openly violent.
+**Status:** Political false saint  
+**Associated claim:** Divine right of conquest  
+**Historical role:** Noble ruler and military claimant
 
-In the name of [Tempus](Tempus.md), warbands claimed sacred battle. Under the sign of [Red Knight](Red%20Knight.md), commanders argued that strategy itself had become holy work. Through [Hoar](Hoar.md), vengeance was framed as divine balance rather than personal anger.
+Lord-Caliph Sered Vant was a regional ruler whose supporters declared him a living saint after a series of military victories. His court produced prophecies claiming that his conquests had been foretold before his birth.
 
-Some of these causes began with real grievances. Villages had been exploited. Relics had been forged. Pilgrims had been murdered. Priests had lied. But once vengeance became sanctified, the war fed itself.
+Scriptor review later found that several of these prophecies had been written after the battles they described. Sered himself may not have authored the fraud, but he used the claim to secure loyalty and suppress rivals. He is commonly cited as an example of political sainthood.
 
-The distinction between justice and revenge became one of the great theological disputes of the age.
+### [Edranna Vale](../../Lore/Historical%20Figures/Edranna%20Vale.md)
 
-## Gods of Fortune, Trade, Travel, and the Sea
+**Status:** Disputed  
+**Associated tradition:** Visions, warning, and prophecy  
+**Historical role:** Rural oracle
 
-The churches and cults of [Tymora](Tymora.md), [Waukeen](Waukeen.md), [Shaundakul](Shaundakul.md), [Valkur](Valkur.md), [Umberlee](Umberlee.md), and [Selûne](Selûne.md) played a large role in spreading the crisis.
+Edranna Vale was a village oracle whose warnings reportedly prevented several settlements from being destroyed during the unrest. Her supporters treated her as a saint after her death.
 
-Pilgrims travelled. Merchants carried relics. Sailors brought stories from one coast to another. Caravans moved saints, witnesses, holy objects, and rumours across Arkhaven. A miracle that began in one town could become doctrine in another before any Scriptor had time to verify it.
+Her case remains disputed because some prophecies attributed to her appear to have been added later. The original accounts suggest she may have been a genuine seer or divinely inspired figure, but her posthumous cult altered much of the record.
 
-[Waukeen](Waukeen.md) was invoked by those who profited from pilgrimage, relic markets, miracle shrines, and indulgences. [Tymora](Tymora.md) was claimed by risk-takers who treated wild prophecy as blessed opportunity. [Shaundakul](Shaundakul.md) and [Valkur](Valkur.md) were called upon by travellers carrying news, some true and some planted. [Selûne](Selûne.md) was invoked for guidance through darkness, especially by those fleeing persecution. [Umberlee](Umberlee.md) was appeased by coastal communities terrified that the gods were at war again.
+Modern Scriptors usually classify her as a **Captured Saint**, meaning a potentially genuine holy figure whose memory was later exploited.
 
-The War of the False Saints spread because Arkhaven was connected enough for lies to travel.
+### [Brother Halvek the White](../../Lore/Historical%20Figures/Brother%20Halvek%20the%20White.md)
 
-## Dark Gods and Hidden Hands
+**Status:** Condemned, later partially rehabilitated  
+**Associated claim:** Confession, judgement, and spiritual cleansing  
+**Historical role:** Monastic reformer
 
-No account of the war can avoid the darker powers.
+Brother Halvek the White led a reform movement against corruption in several wealthy temples. His followers later carried out violent purges, claiming that Halvek had ordered them through posthumous visions.
 
-[Cyric](Cyric.md), [Leira](Leira.md), [Shar](Shar.md), [Mask](Mask.md), [Bane](Bane.md), [Bhaal](Bhaal.md), [Myrkul](Myrkul.md), [Loviatar](Loviatar.md), [Talona](Talona.md), [Talos](Talos.md), [Auril](Auril.md), [Beshaba](Beshaba.md), and [Asmodeus](Asmodeus.md) are all named in accusations, confessions, trials, or later histories.
+Records from Halvek’s lifetime show no clear support for these actions. Later review concluded that his reform teachings were likely genuine, but his followers fabricated visions after his death. He remains controversial because some churches still blame his doctrine for the violence that followed.
 
-Some of these associations are obvious. [Cyric](Cyric.md) is tied to strife, deception, lies, intrigue, illusion, conflict, and murder. [Leira](Leira.md) is tied to deception and illusions. [Shar](Shar.md) is tied to darkness, loss, hidden things, and forgotten memories. [Mask](Mask.md) is tied to shadows and thieves. These names appear again and again in Scriptor records of staged miracles and vanished witnesses.
+## Categories Used by Scriptors
 
-Other powers fed on the consequences. [Bane](Bane.md) profited wherever fear became order. [Bhaal](Bhaal.md) was honoured by those who turned holy murder into ritual. [Myrkul](Myrkul.md) gathered dread around death and decay. [Loviatar](Loviatar.md) was invoked by those who treated pain as proof. [Talona](Talona.md) and [Talos](Talos.md) haunted years of plague, poison, storm, and destruction. [Auril](Auril.md) and [Beshaba](Beshaba.md) were appeased by communities who believed misfortune itself had become divine judgement. [Asmodeus](Asmodeus.md) appeared in records of bargains, hidden contracts, and faith twisted through legalism.
+Modern Scriptors classify disputed saints using several practical categories. These categories are not universally accepted by all churches, but they are widely used in Scriptor records and religious legal proceedings.
 
-Not every accusation was true. In the aftermath of the war, many churches blamed dark gods to hide their own failures.
+### Manufactured Saint
 
-Still, few serious scholars doubt that these powers had influence somewhere in the chaos.
+A figure invented by a church, ruler, cult, or local movement.
 
-## Elemental Powers and Primordial Claims
+### Crowned Fraud
 
-The elemental powers [Akadi](Akadi.md), [Grumbar](Grumbar.md), [Istishia](Istishia.md), and [Kossuth](Kossuth.md) were invoked in more localised but still dangerous movements.
+A real person who knowingly accepted or created false claims of holiness.
 
-Some false saints claimed to speak for the wind, stone, water, or flame rather than for the moral order of the gods. In regions shaped by drought, flood, earthquake, fire, or storm, such claims could become powerful quickly.
+### Misled Vessel
 
-Near parts of the Godscar, cults of stone and water were especially common. The land had cracked. Water had filled the wound. It was easy for desperate people to believe that elemental powers, not gods, held the true memory of what happened.
+A sincere figure manipulated by magic, false advisors, or institutional pressure.
 
-Because these powers sit uneasily between divine worship and primordial force, their role in the war remains disputed.
+### Captured Saint
 
-## Death, Records, and the Dead
+A genuine holy figure whose memory was altered or exploited after death.
 
-The faiths of [Kelemvor](Kelemvor.md) and [Jergal](Jergal.md) became essential in the aftermath.
+### Suppressed Saint
 
-So many died under uncertain banners that the question of the dead became a crisis of its own. Were those who followed false saints damned, deceived, forgiven, or responsible? Were martyrs still martyrs if their cause was a lie? Were murderers absolved if they believed a god commanded them?
+A figure possibly condemned for political reasons rather than genuine fraud.
 
-[Kelemvor](Kelemvor.md)'s clergy dealt with the dead. [Jergal](Jergal.md), as scribe of the dead, became symbolically important to the record-keepers who tried to count the cost.
+### Dangerous Saint
 
-Many modern Scriptors view [Jergal](Jergal.md) with a certain professional unease. He represents a truth they understand well: every soul has a record, whether the living agree on it or not.
+A figure who may have been genuine but whose movement caused violence, instability, or doctrinal damage.
 
-## How the War Was Fought
+These categories are not universally accepted by all churches, but they are widely used in Scriptor records and religious legal proceedings.
 
-The War of the False Saints was fought in many ways.
+## Institutional Reforms
 
-There were battles, sieges, burnings, executions, and massacres. But much of the war happened before swords were drawn.
+The War of the False Saints led to major reforms across Arkhaven.
 
-A forged letter could begin a crusade.
+The most important reforms included:
 
-A staged miracle could turn a crowd.
+- Formal church archives
+- Required witnesses for major miracles
+- Relic authentication procedures
+- Written records of prophecy
+- Greater scrutiny of local saint cults
+- Restrictions on illusion magic in sacred contexts
+- Stronger definitions of heresy
+- More formal religious courts
+- Appointment of Scriptors to senior church authorities
+- Later development of the [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) role
 
-A relic planted in a shrine could redirect a kingdom's faith.
+The reforms did not eliminate religious fraud, but they made it harder for a false saint to gain wide recognition without review.
 
-A hymn could make a fraud beloved.
+## Birth of the Scriptor Compact
 
-A vision spell could convince a ruler that doubt was treason.
+The Scriptor Compact was created in response to the failures exposed by the war.
 
-An illusion could make soldiers believe they had seen a god.
+The central purpose of the Compact was to place long-lived, highly trained elven advisors beside recognised church heads. These advisors would preserve records, compare doctrine, examine relics, assess disputed miracles, and identify magical or textual manipulation.
 
-Some armies fought under banners of justice. Some under mercy. Some under vengeance. Some under lies so old that the liars themselves were dead before the fighting began.
+The Compact also reduced dependence on short-lived political memory. A Scriptor could serve through multiple generations of human leadership and maintain continuity in doctrine and institutional record.
 
-This is why the war is remembered less as a military conflict and more as a collapse of shared reality.
+This made the Compact one of the most important religious reforms in Arkhaven.
 
-## The Role of Illusion Magic
+## Long-Term Effects
 
-#illusion_magic #leira #cyric
+The War of the False Saints permanently changed religious life in Arkhaven.
 
-Illusion magic was not the only cause of the War of the False Saints, but it became one of its most feared tools.
+Its long-term effects include:
 
-Illusions created false apparitions, voices, signs in the sky, wounds that appeared and vanished, glowing relics, phantom saints, and visions of divine approval. Enchantment shaped witnesses. Divination was falsified or selectively interpreted. Conjuration and necromancy were sometimes used to make frauds look even more convincing.
+- Reduced trust in unsupported miracle claims
+- Greater power for church archives
+- Increased influence of elven Scriptors
+- Suspicion of sudden saint cults
+- Legal treatment of heresy in many regions
+- Political concern over control of relics
+- Restrictions on certain forms of religious performance
+- More formal links between churches and secular rulers
+- Continued disputes over condemned saints
 
-After the war, illusionists were treated with new suspicion, especially near churches and sacred sites. This did not make illusion magic illegal everywhere, but it changed its reputation.
+Many local communities still preserve traditions that central churches regard as doubtful or unsafe. In some areas, condemned saints remain part of local practice under different names.
 
-The irony is that illusionists also became some of the best investigators of false miracles. They understood what could be faked because they knew how to fake it.
+## Cultural Impact
 
-This is one reason some Inquisitor-Scriptors are trained in illusion. To expose a lie, one must understand its craft.
+The war remains a common reference point in Arkhaven when discussing false piety, religious fraud, and unsupported claims of divine authority.
 
-## The Birth of The Scriptor Compact
+Common expressions include:
 
-#scriptor_compact #elves #church_law
+- “Painted holy”, meaning falsely pious
+- “A pilgrim’s truth”, meaning a convenient but unreliable story
+- “Show the Scriptor’s copy”, meaning provide written evidence
+- “Crowned by smoke”, meaning made important by spectacle rather than truth
 
-The [The Scriptor Compact](The%20Scriptor%20Compact.md) was born from the failure of the churches to police themselves.
+These sayings are common among educated townsfolk, clergy, and officials, though local variants exist.
 
-After the war, the surviving religious authorities faced a problem they could not solve by faith alone. They needed records that could outlast human politics. They needed witnesses who could compare scripture across centuries. They needed magical experts who could examine miracles without either blind belief or automatic dismissal.
+## Current Status
 
-The elven houses of the south-western forests offered that answer.
+The War of the False Saints remains a major subject of church history, legal precedent, and Scriptor training.
 
-Their scholars had survived [The Green Silence](The%20Green%20Silence.md). Their archives preserved accounts lost elsewhere. Their mage-scribes were trained in language, law, theology, illusion, enchantment, divination, and ritual practice. They could serve as advisors to church heads, not as priests, but as witnesses.
+Several saints from the period remain disputed. Some records are sealed by churches or elven archives. Relics from the period are treated with caution, especially if they lack clear provenance.
 
-Thus the office of Scriptor became formalised.
+Modern religious authorities generally accept that miracles can be real, but they also accept that miracles can be fabricated, misread, or misused. For this reason, major claims of sainthood, prophecy, or divine intervention are usually investigated before being formally recognised.
 
-The Scriptor would stand beside the head of a church, record decisions, preserve doctrine, inspect disputed miracles, compare texts, and warn against manipulation. In stricter faiths, the role evolved further into the office of Inquisitor-Scriptor.
-
-The Compact did not end religious conflict. It did, however, make false sainthood much harder to manufacture without scrutiny.
-
-## Inquisitor-Scriptors and the Shadow of the War
-
-The Inquisitor-Scriptor remains one of the most controversial legacies of the war.
-
-At its best, the office exists to prevent another age of false saints. An Inquisitor-Scriptor investigates heresy, false prophecy, forged relics, magical deception, and religious sedition. They examine the evidence before belief becomes bloodshed.
-
-At its worst, the office repeats the violence it was created to prevent. A church can call any inconvenient doctrine heresy. A ruler can use religious investigation to remove enemies. A Scriptor can become less a witness and more a weapon.
-
-This tension should remain central to the role.
-
-The War of the False Saints taught Arkhaven that unchecked belief is dangerous.
-
-The Inquisitor-Scriptor asks whether controlled suspicion is any safer.
-
-## Aftermath
-
-The war ended unevenly.
-
-There was no single treaty that healed Arkhaven. Some regions exhausted themselves. Some false saints were exposed. Some were killed and became martyrs anyway. Some churches quietly rewrote their involvement. Others publicly confessed and never recovered their old authority.
-
-Many shrines were abandoned. Many relics were sealed away. Some saints were struck from the records. Others remain disputed. In some villages, people still honour figures that major churches condemn. In some churches, stained glass windows show saints whose names no Scriptor will speak aloud.
-
-The aftermath produced several lasting changes.
-
-Churches became more formalised in their record-keeping.
-
-Miracles required witnesses.
-
-Relics required inspection.
-
-Prophecies became matters of law as well as faith.
-
-The elven Scriptors became necessary to religious legitimacy.
-
-Illusion magic gained a dangerous reputation.
-
-Pilgrimage routes became more regulated.
-
-Heresy became a legal category in many lands, not only a theological one.
-
-Most importantly, Arkhaven became less innocent about holiness.
-
-## Disputed Saints
-
-The term “false saint” remains dangerous.
-
-Some were proven frauds. Some were probably frauds. Some were victims. Some were genuine holy figures whose followers committed atrocities after their deaths. Some were declared false only because they challenged the wrong authority.
-
-Modern Scriptors divide disputed figures into categories, though these categories are not always accepted by the churches.
-
-A **Manufactured Saint** was deliberately invented.
-
-A **Crowned Fraud** was a real person who knowingly staged miracles.
-
-A **Misled Vessel** was sincere but manipulated.
-
-A **Captured Saint** may have been genuine but had their image exploited by others.
-
-A **Suppressed Saint** may have been declared false for political reasons.
-
-A **Dangerous Saint** may have been real, but still caused ruin.
-
-These distinctions matter because the war did not prove that saints are impossible.
-
-It proved that sainthood is dangerous when nobody is allowed to question it.
-
-## Common Beliefs and Sayings
-
-The War of the False Saints left marks on everyday speech.
-
-A person who performs false piety may be called “painted holy.”
-
-A rumour that spreads too quickly may be said to “have found its saint.”
-
-A forged document may be called “a pilgrim's truth.”
-
-A leader surrounded by flatterers may be warned that “every throne grows relics.”
-
-When someone asks for proof before belief, they may say, “Show me the Scriptor's copy.”
-
-These sayings show how deeply the war shaped Arkhaven. It was not only a conflict between churches. It changed how ordinary people think about truth.
+The lasting lesson of the war is practical rather than philosophical: religious authority requires evidence, records, and witnesses.
