@@ -9,7 +9,6 @@ tags:
   - forest
   - mystery
 ---
-
 #dm-lore
 
 The full truth of the Green Silence should remain uncertain for now.

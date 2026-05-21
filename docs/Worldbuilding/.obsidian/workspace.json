@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Private/Lore/Arkhaven Events/The Green Silence.md",
+                "file": "Lore/Arkhaven Events/The Godscar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Green Silence"
-            }
-          },
-          {
-            "id": "a486514f39ab5c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Private/Lore/Arkhaven Events/Lore Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lore Test"
+              "title": "The Godscar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,30 +180,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "17719f01d043157a",
+  "active": "33e9e7ae703a2d62",
   "lastOpenFiles": [
+    "Lore/Arkhaven Events/The Green Silence.md",
+    "Lore/Arkhaven Events/The Godscar.md",
+    "Lore/Arkhaven Events/The Godscar.md.crdownload",
+    "Positions of Power/Inquisitor-Scriptor.md",
     "_Private/Lore/Arkhaven Events/The Green Silence.md",
     "_Private/Lore/Arkhaven Events/Lore Test.md",
-    "_Private/Lore/README.md",
+    "_Private/Factions/README.md",
+    "Lore/Arkhaven Events/War of the False Saints.md",
+    "Lore/Arkhaven Events/The Scriptor Compact.md",
     "_Private/README.md",
     "_Private/Sessions/README.md",
     "_Private/Quests/README.md",
     "_Private/Races/README.md",
     "_Private/NPCs/README.md",
     "_Private/Positions of Power/README.md",
+    "_Private/Lore/README.md",
     "_Private/Locations/README.md",
-    "_Private/Factions/README.md",
     "_Private/Positions of Power",
     "_Private/Lore/Arkhaven Events",
     "_Private/Lore",
     "Races/Elves.md",
     "Races",
-    "Positions of Power/Inquisitor-Scriptor.md",
     "Positions of Power",
-    "Lore/Arkhaven Events/War of the False Saints.md",
-    "Lore/Arkhaven Events/The Scriptor Compact.md",
-    "Lore/Arkhaven Events/The Green Silence.md",
-    "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Arkhaven Events",
     "Lore",
     "Locations/Continents/Arkhaven.md",
@@ -229,9 +215,7 @@
     "_Private/Lore/Arkhaven Events/The Godscar.md",
     "_Private/Lore/Arkhaven Events/The Scriptor Compact.md",
     "_Private/Lore/Arkhaven Events/War of the False Saints.md",
-    "_Private/Sessions",
     "_Private/Gods/The Pantheon/Gwaeron Windstrom.md",
-    "_Private/Gods/The Pantheon/Shaundakul.md",
-    "_Private/Gods/The Pantheon/Mielikki.md"
+    "_Private/Gods/The Pantheon/Shaundakul.md"
   ]
 }

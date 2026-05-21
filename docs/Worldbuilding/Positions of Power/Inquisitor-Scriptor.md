@@ -132,7 +132,7 @@ The moral problem is obvious.
 
 A confession can be extracted from the innocent.
 
-A heretic can tell the truth.
+A heretic can tell the truth. 
 
 A church can call doubt a crime.
 
