@@ -10,7 +10,18 @@ The origin of the Godscar is disputed. Most cultures agree that it is not an ord
 
 The Godscar is one of the defining physical features of Arkhaven. It affects travel, settlement, trade, religion, politics, and regional identity.
 
-In lowland areas, The Godscar often appears as a chain of deep lakes or steep-sided waterways. In higher terrain, it becomes a more dramatic rift of exposed stone, cliffs, mist, and waterfalls. Near the coast, sections of the scar broaden into fjords and drowned valleys where seawater reaches inland.
+Most religious, historical, and geological traditions agree that the formation of the scar was catastrophic in scale.
+
+The event permanently reshaped:
+
+- Rivers
+- Mountain systems
+- Trade routes
+- Settlements
+- Political borders
+- Religious interpretation
+
+In lowland areas, the Godscar often appears as a chain of deep lakes or steep-sided waterways. In higher terrain, it becomes a more dramatic rift of exposed stone, cliffs, mist, and waterfalls. Near the coast, sections of the scar broaden into fjords and drowned valleys where seawater reaches inland.
 
 Because of its scale and position, the Godscar forms a natural barrier between regions. Safe crossings are strategically important and often become centres of settlement, trade, taxation, defence, or religious activity.
 
@@ -29,8 +40,41 @@ Common features include:
 - Narrow crossings and natural chokepoints
 - Collapsed roads and broken passes
 - Isolated plateaus and cliffside settlements
+- Flooded caverns
+- Unstable rock shelves
 
 The scar is not uniform. Some sections are broad and water-filled, while others are narrow, dry, rocky, or partially hidden by forest. In several places, rivers flow into the Godscar and form lakes or steep cataracts. Other areas are difficult to navigate due to unstable stone, deep water, fog, or sudden changes in elevation.
+
+## Veinstone Deposits
+
+The Godscar contains the largest known concentrations of [Veinstone](../../Materials/Veinstone.md) in Lazuril.
+
+Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
+
+Some deposits appear as dark crystalline growths embedded directly within the fractured stone.
+
+The presence of Veinstone has contributed significantly to mining interest, religious attention, and political conflict surrounding the scar.
+
+## The Red Lakes
+
+Several lakes and waterways connected to the Godscar display unusual red coloration.
+
+This effect is widely believed to be associated with Veinstone-rich regions beneath or surrounding the water.
+
+The colour varies between locations and environmental conditions.
+
+Consumption of water taken directly from heavily affected lakes is generally discouraged.
+
+Historical reports describe:
+
+- Severe illness
+- Hallucinations
+- Fever
+- Violent dreams
+- Behavioural instability
+- Long-term sickness
+
+The exact cause of these effects remains uncertain.
 
 ## Settlement and Travel
 
@@ -210,5 +254,7 @@ The Godscar is often used as a metaphor for damage that remains visible long aft
 The Godscar remains only partly mapped and only partly understood.
 
 Some regions along it are settled, travelled, and economically important. Others remain dangerous, isolated, or poorly documented. Several sections are likely to contain ruins, abandoned crossings, lost shrines, drowned structures, or settlements not yet formally recorded in the wider histories of Arkhaven.
+
+Continued discovery of Veinstone deposits and ancient structures within the scar has increased institutional interest in the region.
 
 Further detail on specific peoples, settlements, crossings, shrines, ruins, and political territories along the Godscar can be added as the region is developed.
