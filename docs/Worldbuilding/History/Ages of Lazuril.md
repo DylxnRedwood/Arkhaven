@@ -8,7 +8,7 @@ Different cultures use different historical systems, and some regions reject sta
 
 The major ages are therefore best understood as broad historical frameworks rather than universally agreed periods.
 
-Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md), recognised as 1 GS.
+Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md), recognised as 1 GS.
 
 ## Age Before Memory
 
@@ -67,7 +67,7 @@ Large gaps in surviving history originate from this era.
 
 ## Age of False Saints
 
-The Age of False Saints refers to the period surrounding [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+The Age of False Saints refers to the period surrounding [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 The conflict is generally believed to have occurred more than a century before the current era.
 
@@ -80,7 +80,7 @@ The age was marked by:
 - Saint cults
 - Political manipulation of religion
 
-The age eventually led to the creation of [The Scriptor Compact](../Lore/Historical%20Events/The%20Scriptor%20Compact.md).
+The age eventually led to the creation of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
 ## Compact Era
 

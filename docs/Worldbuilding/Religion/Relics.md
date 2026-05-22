@@ -26,7 +26,7 @@ Others treat them primarily as historical artefacts.
 
 Many relics are disputed.
 
-Questions regarding authenticity became especially important after [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md), during which forged relics were widely used to manipulate religious authority and public belief.
+Questions regarding authenticity became especially important after [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md), during which forged relics were widely used to manipulate religious authority and public belief.
 
 ## Authentication
 

@@ -6,11 +6,11 @@ All Inquisitor-Scriptors are Scriptors, but not all Scriptors possess inquisitor
 
 The office combines religious scholarship, historical record-keeping, magical investigation, doctrinal review, and legal inquiry. Inquisitor-Scriptors are primarily responsible for investigating heresy, false miracles, forged relics, cult activity, magical fraud, disputed saints, altered doctrine, and religious sedition.
 
-Most Inquisitor-Scriptors are of [elven heritage](../Races/Elves.md), reflecting the historical role of the elves in the development of [The Scriptor Compact](../Lore/Historical%20Events/The%20Scriptor%20Compact.md).
+Most Inquisitor-Scriptors are of [elven heritage](../Races/Elves.md), reflecting the historical role of the elves in the development of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
 ## Overview
 
-The office of Inquisitor-Scriptor developed after the institutional failures exposed during [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+The office of Inquisitor-Scriptor developed after the institutional failures exposed during [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 During that period, churches across Arkhaven were destabilised by false saints, forged prophecies, fabricated relics, staged miracles, manipulated witnesses, and politically motivated religious movements.
 

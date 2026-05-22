@@ -29,7 +29,7 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## 1 GS — Beginning of the Green Silence
 
-- [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md) begins within the south-western forests
+- [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md) begins within the south-western forests
 - Roads, settlements, and records are lost
 - Geographic isolation increases across several regions
 - Historical uncertainty expands throughout Arkhaven
@@ -43,14 +43,14 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Age of False Saints
 
-- [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
+- [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
 - False relics and fabricated miracles spread across Arkhaven
 - Religious conflict intensifies
 - Inquisitorial traditions begin to emerge
 
 ## Compact Era
 
-- [The Scriptor Compact](../Lore/Historical%20Events/The%20Scriptor%20Compact.md) expands across major churches
+- [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md) expands across major churches
 - Record standardisation increases
 - Trade networks expand
 - Major infrastructure systems develop

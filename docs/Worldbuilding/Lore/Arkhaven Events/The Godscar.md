@@ -47,7 +47,7 @@ The scar is not uniform. Some sections are broad and water-filled, while others 
 
 ## Veinstone Deposits
 
-The Godscar contains the largest known concentrations of [Veinstone](Veinstone.md) in Lazuril.
+The Godscar contains the largest known concentrations of Veinstone in Lazuril.
 
 Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
 
@@ -166,10 +166,10 @@ Several factors contribute to this uncertainty:
 - Political use of origin myths
 - Regional variation in oral traditions
 - Limited access to older elven archives
-- Later reinterpretation after [[War of the False Saints]]
-- Possible connections to [[The Green Silence]]
+- Later reinterpretation after [War of the False Saints](War%20of%20the%20False%20Saints.md)
+- Possible connections to [The Green Silence](The%20Green%20Silence.md)
 
-The oldest surviving records are believed to be held partly by the [Elves](../../Races/Elves.md), particularly those connected to [[The Scriptor Compact]]. Access to these records is limited, and their contents are not widely known.
+The oldest surviving records are believed to be held partly by the [Elves](../../Races/Elves.md), particularly those connected to [The Scriptor Compact](../../Occupations/Inquisitor-Scriptor.md). Access to these records is limited, and their contents are not widely known.
 
 ## Relationship to The Scriptor Compact
 

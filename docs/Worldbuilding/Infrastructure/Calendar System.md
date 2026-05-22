@@ -2,7 +2,7 @@
 
 The calendar systems of [Lazuril](../Locations/World/Lazuril.md) vary between cultures, kingdoms, churches, and historical traditions.
 
-Most modern systems used in [Arkhaven](../Locations/Continents/Arkhaven.md) now measure time using the beginning of [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md) as the primary historical reference point.
+Most modern systems used in [Arkhaven](../Locations/Continents/Arkhaven.md) now measure time using the beginning of [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md) as the primary historical reference point.
 
 Under this system, the first recorded year of the Green Silence is recognised as **1 GS**.
 

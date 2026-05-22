@@ -29,7 +29,7 @@ Commonly recognised forms include:
 - Rejection of recognised religious authority
 - Ritual practices considered dangerous or forbidden
 
-The treatment of heresy became significantly stricter after [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+The treatment of heresy became significantly stricter after [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 ## Investigation
 
