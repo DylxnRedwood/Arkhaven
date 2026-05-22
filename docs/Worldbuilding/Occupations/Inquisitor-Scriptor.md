@@ -162,7 +162,7 @@ Supporters argue that failure to investigate dangerous religious movements aggre
 
 ## Relationship with the Elves
 
-Most Inquisitor-Scriptors are trained by elven houses associated with the south-western forests and [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md).
+Most Inquisitor-Scriptors are trained by elven houses associated with the south-western forests and [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md).
 
 Within elven society, the office remains controversial.
 

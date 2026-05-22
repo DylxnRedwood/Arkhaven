@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Timeline of Major Events.md",
+                "file": "Lore/Arkhaven Events/The Green Silence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline of Major Events"
+              "title": "The Green Silence"
             }
           }
         ]
@@ -180,8 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "17719f01d043157a",
+  "active": "812666ef25654c62",
   "lastOpenFiles": [
+    "Occupations/Inquisitor-Scriptor.md",
+    "History/Timeline of Major Events.md",
     "History/Ages of Lazuril.md",
     "Infrastructure/Calendar System.md",
     "Lore/Arkhaven Events/The Godscar.md",
@@ -211,12 +213,10 @@
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Brother Halvek the White.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters",
-    "Lore/Arkhaven Events/war_false_saints_with_npc_links/War of the False Saints.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links.zip",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links.zip.crdownload",
     "Lore/Arkhaven Events/War of the False Saints.md.crdownload",
-    "Lore/Arkhaven Events/The Scriptor Compact.md.crdownload",
-    "Occupations/Inquisitor-Scriptor.md"
+    "Lore/Arkhaven Events/The Scriptor Compact.md.crdownload"
   ]
 }
