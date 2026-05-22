@@ -33,7 +33,7 @@ The treatment of heresy became significantly stricter after [War of the False Sa
 
 ## Investigation
 
-Most major churches rely upon Scriptors or [Inquisitor-Scriptor](../Positions%20of%20Power/Inquisitor-Scriptor.md) authorities when investigating major heresy cases.
+Most major churches rely upon Scriptors or [Inquisitor-Scriptor](Inquisitor-Scriptor.md) authorities when investigating major heresy cases.
 
 Investigations may involve:
 

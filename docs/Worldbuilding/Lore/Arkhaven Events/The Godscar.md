@@ -47,7 +47,7 @@ The scar is not uniform. Some sections are broad and water-filled, while others 
 
 ## Veinstone Deposits
 
-The Godscar contains the largest known concentrations of [Veinstone](../../Materials/Veinstone.md) in Lazuril.
+The Godscar contains the largest known concentrations of [Veinstone](Veinstone.md) in Lazuril.
 
 Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
 
@@ -179,7 +179,7 @@ Because the Godscar is central to many religious traditions, it is a frequent su
 
 Scriptors are often required to examine these claims by comparing texts, reviewing older records, identifying later additions, and distinguishing between religious tradition, political propaganda, and possible historical evidence.
 
-An [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
+An [Inquisitor-Scriptor](Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
 
 ## Relationship to War of the False Saints
 

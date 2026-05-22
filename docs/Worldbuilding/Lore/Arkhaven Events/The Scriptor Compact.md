@@ -120,7 +120,7 @@ This makes them valuable to honest churches and inconvenient to corrupt ones.
 
 ## Inquisitor-Scriptors
 
-In some churches, a Scriptor may be granted a second office as an [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md).
+In some churches, a Scriptor may be granted a second office as an [Inquisitor-Scriptor](Inquisitor-Scriptor.md).
 
 This role gives the Scriptor formal authority to investigate heresy, cult activity, false prophecy, forged relics, magical fraud, doctrinal corruption, possession, blasphemous texts, and religious sedition.
 

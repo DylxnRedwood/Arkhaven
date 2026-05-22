@@ -213,7 +213,7 @@ The most important reforms included:
 - Stronger definitions of heresy
 - More formal religious courts
 - Appointment of Scriptors to senior church authorities
-- Later development of the [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) role
+- Later development of the [Inquisitor-Scriptor](Inquisitor-Scriptor.md) role
 
 The reforms did not eliminate religious fraud, but they made it harder for a false saint to gain wide recognition without review.
 

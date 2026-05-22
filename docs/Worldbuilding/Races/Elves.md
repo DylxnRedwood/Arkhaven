@@ -119,7 +119,7 @@ Many non-elven populations view the Scriptor system as one of the main reasons e
 
 ## Inquisitor-Scriptors
 
-Some Scriptors later receive authority as [Inquisitor-Scriptor](../Positions%20of%20Power/Inquisitor-Scriptor.md).
+Some Scriptors later receive authority as [Inquisitor-Scriptor](Inquisitor-Scriptor.md).
 
 These individuals investigate heresy, false prophecy, magical fraud, forged relics, cult activity, and religious corruption.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Arkhaven Events/War of the False Saints.md",
+                "file": "History/Timeline of Major Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War of the False Saints"
+              "title": "Timeline of Major Events"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,18 +180,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "812666ef25654c62",
+  "active": "17719f01d043157a",
   "lastOpenFiles": [
-    "Locations/Continents/Arkhaven.md",
-    "Lore/Arkhaven Events/War of the False Saints.md",
+    "History/Ages of Lazuril.md",
+    "Infrastructure/Calendar System.md",
+    "Lore/Arkhaven Events/The Godscar.md",
+    "Lore/Historical Events/The Godscar.md",
+    "_Private/Materials/Veinstone.md",
+    "Locations/Cities/Khuldovar.md",
+    "_Private/Materials",
+    "Lore/Historical Events",
+    "Locations/Cities/Khazmodan.md",
+    "Races/Elves.md",
+    "_Private/README.md",
     "Lore/Historical Figures/Brother Halvek the White.md",
+    "_Private/Lore/Arkhaven Events/The Green Silence.md",
+    "Lore/Arkhaven Events/War of the False Saints.md",
+    "Locations/Continents/Arkhaven.md",
     "Lore/Historical Figures/Edranna Vale.md",
     "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
     "Lore/Historical Figures/Saint Arveth of the Open Hand.md",
     "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
     "Lore/Arkhaven Events/The Scriptor Compact.md",
     "Lore/Arkhaven Events/The Green Silence.md",
-    "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Saint Arveth of the Open Hand.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Maerwyn of the Silver Flame.md",
@@ -206,17 +217,6 @@
     "Lore/Arkhaven Events/war_false_saints_with_npc_links.zip.crdownload",
     "Lore/Arkhaven Events/War of the False Saints.md.crdownload",
     "Lore/Arkhaven Events/The Scriptor Compact.md.crdownload",
-    "Lore/Arkhaven Events/The Green Silence.md.crdownload",
-    "Untitled.base",
-    "Positions of Power/Inquisitor-Scriptor.md",
-    "_Private/Lore/Arkhaven Events/The Green Silence.md",
-    "_Private/Lore/Arkhaven Events/Lore Test.md",
-    "_Private/Factions/README.md",
-    "_Private/README.md",
-    "_Private/Sessions/README.md",
-    "_Private/Quests/README.md",
-    "_Private/Races/README.md",
-    "_Private/NPCs/README.md",
-    "_Private/Positions of Power/README.md"
+    "Occupations/Inquisitor-Scriptor.md"
   ]
 }

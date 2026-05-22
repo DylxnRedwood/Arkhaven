@@ -1,6 +1,6 @@
 # Veinstone
 
-**Veinstone** is a rare mineral substance found in isolated deposits throughout [Lazuril](../Locations/World/Lazuril.md).
+**Veinstone** is a rare mineral substance found in isolated deposits throughout [Lazuril](Lazuril.md).
 
 The material is most strongly associated with regions surrounding [The Godscar](../Lore/Historical%20Events/The%20Godscar.md), where exposed mineral veins have been identified within fractured cliffs, deep rock formations, and certain lake systems.
 
