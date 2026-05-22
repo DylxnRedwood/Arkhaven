@@ -1,2 +1,2 @@
-# Arkhaven
-Obsidian Vault for the continent of Arkhaven as a basis for a DnD campaign
+# Lazuril
+Obsidian Vault for the continent of Lazuril as a basis for a DnD campaign
