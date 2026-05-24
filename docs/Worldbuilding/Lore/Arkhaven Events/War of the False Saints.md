@@ -4,15 +4,19 @@ The **War of the False Saints** was a period of religious conflict, political in
 
 Despite the name, it was not a single war fought between two sides. It was a broad period of unrest involving separate regional conflicts, church schisms, local uprisings, accusations of heresy, contested sainthood, and the misuse of religious authority.
 
+The conflict occurred after [The Green Silence](The%20Green%20Silence.md) and is generally believed to have taken place more than a century before the current era.
+
 The War of the False Saints is one of the main historical causes behind the creation of [The Scriptor Compact](The%20Scriptor%20Compact.md).
 
 ## Summary
 
 The War of the False Saints occurred after the religious traditions of Arkhaven had already become heavily shaped by [The Godscar](The%20Godscar.md). The Godscar was interpreted differently by different churches, and those interpretations became important sources of religious legitimacy.
 
-This made claims of divine favour especially powerful. A person believed to be a saint could influence law, succession, military action, pilgrimage, taxation, public order, and church doctrine.
+No people currently documented on Arkhaven preserves direct knowledge of the Godscar’s true origin. This lack of certainty made later religious interpretation especially powerful and especially vulnerable to manipulation.
 
 The conflict escalated when multiple churches, rulers, and local movements promoted rival saints whose claims contradicted one another. Some of these figures were deliberate frauds. Others were sincere religious figures later misused by their followers. A smaller number appear to have been genuine high-ranking devotees or miracle-workers whose reputations became politically dangerous after their deaths.
+
+Human-led churches and states were major accelerants of the conflict. Their younger records, rapid expansion, political competition, and need for divine legitimacy made them especially vulnerable to saint cults, relic claims, and prophetic movements.
 
 The central issue was not the existence of divine power. The central issue was verification.
 
@@ -44,6 +48,12 @@ Major churches held competing interpretations of ancient events, especially the 
 
 Rulers and noble houses used saints, relics, and prophecies to justify claims to land, succession, war, or taxation. A recognised saint could make a political cause appear divinely approved.
 
+### Human Expansion
+
+The expansion of [Humans](../../Races/Humans.md) across Arkhaven created new churches, border settlements, land claims, and political rivalries.
+
+Many human states sought religious confirmation that their settlement of Arkhaven was lawful, foretold, or divinely sanctioned. This made relics, saints, and Godscar-related prophecies especially useful as political tools.
+
 ### Weak Historical Records
 
 Before the Scriptor Compact became widespread, many churches had inconsistent record-keeping. This allowed old texts to be altered, prophecies to be backdated, relic histories to be invented, and local traditions to be absorbed into official doctrine without proper verification.
@@ -54,7 +64,7 @@ Magic was used in some cases to create or support false religious evidence. Reco
 
 ### Lost or Restricted Knowledge
 
-The historical gaps associated with [The Green Silence](The%20Green%20Silence.md) made certain claims difficult to confirm or disprove. Figures claiming authority from lost forest shrines, buried records, or pre-Silence traditions were especially difficult to investigate.
+The historical gaps associated with the Green Silence made certain claims difficult to confirm or disprove. Figures claiming authority from lost forest shrines, buried records, or pre-Silence traditions were especially difficult to investigate.
 
 ## Nature of the Conflict
 
@@ -213,7 +223,7 @@ The most important reforms included:
 - Stronger definitions of heresy
 - More formal religious courts
 - Appointment of Scriptors to senior church authorities
-- Later development of the [Inquisitor-Scriptor](Inquisitor-Scriptor.md) role
+- Later development of the [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) role
 
 The reforms did not eliminate religious fraud, but they made it harder for a false saint to gain wide recognition without review.
 
