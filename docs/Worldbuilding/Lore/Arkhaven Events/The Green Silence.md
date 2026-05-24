@@ -2,11 +2,13 @@
 
 **The Green Silence** is the name given to an ancient event that transformed the south-western forests of [Arkhaven](../../Locations/Continents/Arkhaven.md). The event is associated with the sudden expansion, deepening, or supernatural alteration of the forested region, resulting in the loss or abandonment of roads, settlements, shrines, towers, and other sites.
 
-The exact cause of The Green Silence is unknown. Surviving accounts are incomplete and often contradictory. Most traditions agree that the event was not a conventional war, invasion, fire, plague, or natural overgrowth. It is generally understood as a major historical and environmental transformation that permanently changed the region and its people.
+The exact cause of the Green Silence is unknown. Surviving accounts are incomplete and often contradictory. Most traditions agree that the event was not a conventional war, invasion, fire, plague, or natural overgrowth. It is generally understood as a major historical and environmental transformation that permanently changed the region and its people.
+
+The beginning of the Green Silence is used as the foundation of the modern GS calendar system. The first recorded year of the event is recognised as **1 GS**.
 
 ## Overview
 
-The Green Silence affected the south-western forests of Arkhaven and is considered one of the major formative events in the continent’s ancient history.
+The Green Silence affected the south-western forests of Arkhaven and is considered one of the major formative events in the continent’s recorded history.
 
 The event is most commonly associated with the following outcomes:
 
@@ -34,7 +36,7 @@ Both meanings remain in use.
 
 The Green Silence is associated with the south-western forested region of Arkhaven. This area includes dense woodland, temperate rainforest, old-growth forest, wet valleys, moss-covered ruins, and isolated elven settlements.
 
-The exact boundaries of the affected region are not fixed. Some scholars define The Green Silence as the transformation of a specific ancient forest. Others use the term more broadly to refer to all lands affected by the expansion, concealment, or magical alteration of the south-western woods.
+The exact boundaries of the affected region are not fixed. Some scholars define the Green Silence as the transformation of a specific ancient forest. Others use the term more broadly to refer to all lands affected by the expansion, concealment, or magical alteration of the south-western woods.
 
 ## Known Effects
 
@@ -55,7 +57,7 @@ The event did not leave a single identifiable battlefield, crater, ruin, or capi
 
 ## The Forest After The Green Silence
 
-The forest left behind by The Green Silence is not considered uniform.
+The forest left behind by the Green Silence is not considered uniform.
 
 The outer regions may resemble ordinary ancient woodland or temperate rainforest, with heavy rain, moss, broadleaf trees, deep soil, mist, and dense undergrowth. Deeper areas are less well documented and are often described as difficult to map or travel through.
 
@@ -78,7 +80,7 @@ The Green Silence is strongly associated with ruins concealed beneath the forest
 
 These ruins are important because they suggest that the south-western forest was previously more settled, connected, or politically significant than it is today. The lack of complete records makes it difficult to determine which peoples built these sites, whether they were occupied during the event, or why they were abandoned.
 
-Common ruin types associated with The Green Silence include:
+Common ruin types associated with the Green Silence include:
 
 - Overgrown roads
 - Broken bridges
@@ -104,23 +106,33 @@ This has created several competing interpretations of the elven role.
 
 Some traditions claim that the elves survived because they understood the event before other peoples did. Others accuse them of causing it, concealing its cause, or using it to remove rivals. Elven accounts are not publicly unified, and different elven houses may preserve different versions of the event.
 
-What is broadly accepted is that after The Green Silence, elven records became unusually important. Many human, local, or pre-existing records were lost or became inaccessible, while elven archives survived. This gave elven scholars considerable authority in matters of ancient history, religious development, and pre-Compact doctrine.
+What is broadly accepted is that after the Green Silence, elven records became unusually important. Many human, local, or pre-existing records were lost or became inaccessible, while elven archives survived. This gave elven scholars considerable authority in matters of ancient history, religious development, and pre-Compact doctrine.
 
 ## Relationship to The Scriptor Compact
 
-The Green Silence is one of the historical reasons The Scriptor Compact carries authority in Arkhaven.
+The Green Silence is one of the historical reasons the Scriptor Compact carries authority in Arkhaven.
 
 The event demonstrated that records, settlements, roads, and even entire local histories can vanish. This made long-lived witnesses and protected archives politically and religiously valuable.
 
-The Scriptors are partly a response to this problem. Their role is to preserve doctrine, compare records, advise church heads, and prevent important religious history from being rewritten or lost. The elven connection to The Green Silence gives them both credibility and suspicion.
+The Scriptors are partly a response to this problem. Their role is to preserve doctrine, compare records, advise church heads, and prevent important religious history from being rewritten or lost. The elven connection to the Green Silence gives them both credibility and suspicion.
 
 Supporters of the Compact argue that elven Scriptors preserve truths that would otherwise disappear.
 
 Critics argue that the same elves may control access to histories that should belong to all peoples of Arkhaven.
 
+## Relationship to Human Expansion
+
+[Humans](../../Races/Humans.md) arrived in Arkhaven before the beginning of the Green Silence.
+
+The event disrupted early human expansion, especially where roads, claims, mission sites, or frontier settlements approached the south-western forest region.
+
+Later human states interpreted the Green Silence in different ways. Some treated it as a warning against trespass. Others used it to justify suspicion toward elven archives, forest communities, and pre-human records.
+
+The loss of records during this period made later disputes over land, shrine ownership, settlement history, and religious legitimacy more difficult to resolve.
+
 ## Religious Interpretations
 
-The churches of Arkhaven do not agree on the meaning of The Green Silence.
+The churches of Arkhaven do not agree on the meaning of the Green Silence.
 
 Common interpretations include:
 
@@ -146,11 +158,13 @@ Many Scriptors and scholars avoid a firm conclusion. They treat the event as ins
 
 ## Relationship to The Godscar
 
-[The Godscar](The%20Godscar.md) and The Green Silence are often compared in scholarship and religious commentary.
+[The Godscar](The%20Godscar.md) and the Green Silence are often compared in scholarship and religious commentary.
 
 The Godscar is usually interpreted as an event of rupture, exposure, and division. The Green Silence is usually interpreted as an event of concealment, overgrowth, and disappearance.
 
-Some scholars believe the events may be indirectly connected. This theory suggests that the divine or geological upheaval associated with The Godscar may have disturbed older natural or magical systems, making The Green Silence possible at a later stage.
+The Godscar is significantly older than the Green Silence and predates the currently documented peoples of Arkhaven. The Green Silence belongs to the later recorded history of the continent and forms the basis of the modern GS dating system.
+
+Some scholars believe the events may be indirectly connected. This theory suggests that the upheaval associated with the Godscar may have disturbed older natural or magical systems, making the Green Silence possible at a later stage.
 
 Other scholars reject this connection and treat the comparison as symbolic rather than historical.
 
@@ -158,13 +172,13 @@ No accepted conclusion exists.
 
 ## Relationship to War of the False Saints
 
-During the [War of the False Saints](War%20of%20the%20False%20Saints.md), The Green Silence became a source of religious claims, forged relics, and disputed visions.
+During [War of the False Saints](War%20of%20the%20False%20Saints.md), the Green Silence became a source of religious claims, forged relics, and disputed visions.
 
 False prophets and disputed saints claimed authority from the forest, from ruins supposedly swallowed by it, or from relics allegedly recovered from hidden sites. The lack of reliable public records made these claims difficult to disprove.
 
 The event contributed to the later importance of Scriptors, who were expected to examine relics, compare claims against older sources, and determine whether a religious tradition was historical, fabricated, or altered.
 
-Claims connected to The Green Silence remain sensitive, especially when they involve miracles, lost saints, sealed archives, or pre-Compact religious traditions.
+Claims connected to the Green Silence remain sensitive, especially when they involve miracles, lost saints, sealed archives, or pre-Compact religious traditions.
 
 ## Peoples of the Region
 
@@ -182,7 +196,7 @@ Known or likely communities include:
 - Communities living at the forest edge
 - Groups preserving local oral traditions
 
-Not all inhabitants understand The Green Silence in the same way. Some live among its consequences without knowing its cause. Others preserve accounts that contradict formal elven or church records.
+Not all inhabitants understand the Green Silence in the same way. Some live among its consequences without knowing its cause. Others preserve accounts that contradict formal elven or church records.
 
 ## Cultural Impact
 
