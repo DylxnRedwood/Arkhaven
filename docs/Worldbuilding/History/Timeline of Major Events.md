@@ -16,13 +16,17 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 ## Age of Fracture
 
 - [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) reshapes large areas of Arkhaven
+- No currently documented people of Arkhaven preserves direct witness knowledge of the event
+- Later religious and scholarly traditions develop competing explanations for its origin
 
 ## Post-Godscar Era
 
-- Reconstruction of trade and settlement networks
-- Expansion of human kingdoms
+- Reconstruction of trade and settlement networks begins across the continent
 - Early dwarven holds expand beneath the mountains
 - Elven archive systems grow in influence
+- Tabaxi communities become established across the northern jungle and rainforest territories
+- Human ark-ships arrive during the event later known as the Arkfall
+- Early human settlements develop along coasts, river mouths, and sheltered bays
 
 ## 1 GS — Beginning of the Green Silence
 
@@ -37,11 +41,13 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 - Scriptor traditions become more formalised
 - Elven archive houses expand influence
 - Several regions adopt new historical dating systems
+- Human settlements continue expanding inland from earlier coastal foundations
 
 ## Age of False Saints
 
 - [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
 - False relics and fabricated miracles spread across Arkhaven
+- Human-led churches and states become major accelerants of the crisis
 - Religious conflict intensifies
 - Inquisitorial traditions begin to emerge
 
@@ -57,6 +63,8 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 ## Current Age
 
 - The current historical period is slightly more than five centuries after the beginning of the Green Silence
+- Humans are the most widespread and politically dominant people on Arkhaven, but remain divided between competing states
+- Northern tabaxi communities continue to defend their canopy settlements and trade routes from traffickers and hostile outsiders
 - Political fragmentation remains widespread
 - Religious tension continues in several regions
 - Frontier exploration increases
