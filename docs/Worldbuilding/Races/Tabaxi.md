@@ -48,6 +48,16 @@ Tabaxi settlements are most commonly found in:
 
 Smaller tabaxi communities also exist near trade routes, port settlements, and frontier towns, though many avoid permanent residence in heavily populated human regions.
 
+## Historical Position
+
+Tabaxi communities were established in the northern forests before the expansion of major human states.
+
+Their own traditions do not claim direct knowledge of the true origin of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md). Like other peoples of modern Arkhaven, they preserve theories, stories, and religious interpretations rather than direct memory of the event.
+
+The arrival and later expansion of [Humans](Humans.md) changed tabaxi relations with the wider continent.
+
+Some human settlements became trade partners. Others became sources of danger, especially where hunters, traffickers, or frontier markets sought to capture young tabaxi.
+
 ## Treetop Settlements
 
 Most established tabaxi homes are built within the upper canopy.
@@ -210,6 +220,28 @@ Relations are poor with groups known for hunting, trafficking, forced labour, or
 Some human and coastal settlements have long-standing agreements with nearby tabaxi clans.
 
 Other regions are avoided entirely.
+
+## Warfare and Defence
+
+Tabaxi warfare is usually defensive, mobile, and terrain-focused.
+
+Common tactics include:
+
+- Ambush
+- Night movement
+- Canopy travel
+- Silent signalling
+- Trap use
+- Hit-and-run attacks
+- Misdirection
+- Evacuation routes
+- Rescue raids
+
+Tabaxi rarely favour direct battlefield confrontation unless forced.
+
+Their greatest military advantage is their ability to move through jungle terrain faster and more quietly than most enemies.
+
+Settlements are designed with layered escape routes rather than only fixed defences.
 
 ## Reputation in Arkhaven
 
