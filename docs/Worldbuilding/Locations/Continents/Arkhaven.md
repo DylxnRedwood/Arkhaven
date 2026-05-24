@@ -4,9 +4,9 @@ Arkhaven is a major continent of [Lazuril](../World/Lazuril.md).
 
 ![Arkhaven Map](../../5b048880-3946-47d6-a8ad-961aa5a45e49.png)
 
-The continent is defined by extreme geographic variation, fractured religious history, large wilderness regions, and the lasting influence of ancient catastrophic events.
+The continent is defined by extreme geographic variation, fractured religious history, large wilderness regions, human colonial expansion, and the lasting influence of ancient catastrophic events.
 
-Its best known physical feature is [The Godscar](../../Lore/Historical%20Events/The%20Godscar.md), a massive system of vertical fractures, lakes, cliffs, waterways, and broken terrain that divides large areas of the continent.
+Its best known physical feature is [The Godscar](../../Lore/Arkhaven%20Events/The%20Godscar.md), a massive system of vertical fractures, lakes, cliffs, waterways, and broken terrain that divides large areas of the continent.
 
 ## Geography
 
@@ -29,31 +29,41 @@ This environmental variation has contributed to major cultural, political, and e
 
 ## Major Regions
 
-The south-western forests are strongly associated with elven civilisation and [The Green Silence](../../Lore/Historical%20Events/The%20Green%20Silence.md).
+The south-western forests are strongly associated with elven civilisation and [The Green Silence](../../Lore/Arkhaven%20Events/The%20Green%20Silence.md).
 
 The south-eastern mountains are dominated by dwarven kingdoms, mining settlements, and deep tunnel systems.
 
 The central regions contain large grasslands, trade routes, agricultural territories, and several major human population centres.
 
-Northern regions are generally hotter, more humid, and less politically unified.
+Northern regions are generally hotter, more humid, and less politically unified. These territories include large rainforest and jungle regions associated with tabaxi canopy settlements, river clans, and concealed trade routes.
 
 ## Population
 
-Humans are the most widespread population group across Arkhaven.
+Humans are the most widespread population group across Arkhaven, though they are not considered native to the continent.
 
-Large elven and dwarven populations also exist, alongside smaller populations of other peoples.
+Large elven and dwarven populations also exist, alongside tabaxi communities in the northern forests and smaller populations of other peoples.
 
 Population density varies significantly between regions.
 
-Large sections of the continent remain sparsely settled due to terrain, climate, political instability, or historical danger.
+Large sections of the continent remain sparsely settled due to terrain, climate, political instability, historical danger, or deliberate concealment by local communities.
+
+## Human Settlement
+
+The human name Arkhaven derives from the Arkfall, the arrival of human ark-ships from a homeland beyond the horizon.
+
+Human settlement began after the Godscar had already formed and before the beginning of the Green Silence.
+
+Over several centuries, human populations expanded from coastal and river settlements into agricultural regions, trade hubs, towns, cities, and contested borderlands.
+
+This expansion has become one of the major causes of political and cultural tension on the continent.
 
 ## Religion
 
 Religion plays a major role throughout Arkhaven.
 
-Most major churches operate within the framework of [The Scriptor Compact](../../Lore/Historical%20Events/The%20Scriptor%20Compact.md).
+Most major churches operate within the framework of [The Scriptor Compact](../../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
-The legacy of [War of the False Saints](../../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md) continues to influence how miracles, relics, prophecy, and sainthood are treated.
+The legacy of [War of the False Saints](../../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) continues to influence how miracles, relics, prophecy, and sainthood are treated.
 
 ## Trade and Travel
 
@@ -68,8 +78,9 @@ Travel remains difficult in several regions due to:
 - Monster activity
 - Weather conditions
 - Poor infrastructure
+- Local restrictions on outsider movement
 
-Control of strategic crossings and mountain passes remains politically important.
+Control of strategic crossings, mountain passes, river mouths, and Godscar transit points remains politically important.
 
 ## Current Status
 
@@ -77,6 +88,6 @@ Arkhaven remains politically fragmented.
 
 No single power controls the entire continent.
 
-Several kingdoms, churches, city-states, guilds, archive houses, and regional powers compete for influence.
+Several kingdoms, churches, city-states, guilds, archive houses, dwarven holds, tabaxi communities, and regional powers compete for influence or defend their autonomy.
 
-Ancient history continues to affect modern politics, especially in regions connected to the Godscar, the Green Silence, and older subterranean structures.
+Ancient history continues to affect modern politics, especially in regions connected to the Godscar, the Green Silence, human settlement, and older subterranean structures.
