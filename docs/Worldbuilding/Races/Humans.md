@@ -35,7 +35,7 @@ Their influence is not based on age or ancient continuity, but on growth, organi
 
 ## Origins
 
-The first humans arrived in Arkhaven after the formation of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) but before [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md).
+The first humans arrived in Arkhaven after the formation of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) but before [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md).
 
 The old human homeland has not yet been fully defined in surviving Arkhaven records.
 
@@ -46,6 +46,8 @@ Some accounts describe divine warning.
 Others describe famine, war, plague, political collapse, celestial omen, or environmental ruin.
 
 The earliest human accounts are inconsistent and were often recorded generations after the landing.
+
+No human record is old enough to preserve direct knowledge of the true origin of the Godscar.
 
 ## The Arkfall
 
@@ -61,7 +63,7 @@ The Arkfall is treated differently by different cultures.
 
 Human states often describe it as an act of survival, courage, and divine providence.
 
-Older native traditions may describe it more critically, as the beginning of colonisation, displacement, and political disruption.
+Older established peoples and local traditions may describe it more critically, as the beginning of colonisation, displacement, and political disruption.
 
 ## Early Settlement
 
@@ -73,7 +75,7 @@ Early communities depended heavily on:
 - Ship repair
 - Coastal farming
 - Hunting
-- Trade with native peoples
+- Trade with established local peoples
 - Salvage from the ark-ships
 - Religious organisation
 - Defensive cooperation
@@ -100,7 +102,7 @@ The main drivers of expansion were:
 - Access to mines and rivers
 - Control of strategic crossings
 
-Humans were not stronger than every native people they encountered.
+Humans were not stronger than every people they encountered.
 
 They were more numerous, more expansionist, and more willing to settle contested or unstable land.
 
@@ -187,7 +189,7 @@ Human rulers and churches often used religious authority to justify settlement, 
 
 ## War of the False Saints
 
-Humans were major participants in [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md).
+Humans were major participants in [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
 
 They were not the only people involved, but human-led churches and states were among the main accelerants of the conflict.
 
@@ -202,7 +204,7 @@ Several factors contributed to this:
 
 The war exposed the dangers of religious ambition combined with unstable historical memory.
 
-It also contributed directly to the later authority of [The Scriptor Compact](../Lore/Historical%20Events/The%20Scriptor%20Compact.md).
+It also contributed directly to the later authority of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
 ## Relationship with the Scriptor Compact
 
