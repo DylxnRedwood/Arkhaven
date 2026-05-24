@@ -21,6 +21,8 @@ The event permanently reshaped:
 - Political borders
 - Religious interpretation
 
+The Godscar predates all currently documented peoples of Arkhaven. No living race now present on the continent preserves direct knowledge of its true origin.
+
 In lowland areas, the Godscar often appears as a chain of deep lakes or steep-sided waterways. In higher terrain, it becomes a more dramatic rift of exposed stone, cliffs, mist, and waterfalls. Near the coast, sections of the scar broaden into fjords and drowned valleys where seawater reaches inland.
 
 Because of its scale and position, the Godscar forms a natural barrier between regions. Safe crossings are strategically important and often become centres of settlement, trade, taxation, defence, or religious activity.
@@ -47,7 +49,7 @@ The scar is not uniform. Some sections are broad and water-filled, while others 
 
 ## Veinstone Deposits
 
-The Godscar contains the largest known concentrations of Veinstone in Lazuril.
+The Godscar contains the largest known concentrations of [Veinstone](../../Materials/Veinstone.md) in Lazuril.
 
 Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
 
@@ -165,21 +167,20 @@ Several factors contribute to this uncertainty:
 - Lost or damaged records
 - Political use of origin myths
 - Regional variation in oral traditions
-- Limited access to older elven archives
 - Later reinterpretation after [War of the False Saints](War%20of%20the%20False%20Saints.md)
 - Possible connections to [The Green Silence](The%20Green%20Silence.md)
 
-The oldest surviving records are believed to be held partly by the [Elves](../../Races/Elves.md), particularly those connected to [The Scriptor Compact](../../Occupations/Inquisitor-Scriptor.md). Access to these records is limited, and their contents are not widely known.
+The oldest surviving records held by current peoples are secondary, incomplete, or interpretive. Even the most respected archives preserve theories rather than direct witness accounts.
 
 ## Relationship to The Scriptor Compact
 
-The Scriptor Compact is closely connected to the study and interpretation of the Godscar.
+[The Scriptor Compact](The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
 
 Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar proves their theology, supports their authority, or validates their sacred history.
 
 Scriptors are often required to examine these claims by comparing texts, reviewing older records, identifying later additions, and distinguishing between religious tradition, political propaganda, and possible historical evidence.
 
-An [Inquisitor-Scriptor](Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
+An [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
 
 ## Relationship to War of the False Saints
 
@@ -195,7 +196,7 @@ The Green Silence is not generally considered part of the same event as the Gods
 
 Both events changed the shape and history of Arkhaven. Both are surrounded by incomplete records, religious interpretation, and conflicting traditions. The Godscar is usually understood as an event of rupture, exposure, and division. The Green Silence is usually understood as an event of concealment, overgrowth, and disappearance.
 
-Some elven scholars and Scriptors believe the two events may be indirectly connected. Others treat the comparison as symbolic rather than historical.
+Some scholars and Scriptors believe the two events may be indirectly connected. Others treat the comparison as symbolic rather than historical.
 
 No accepted conclusion exists.
 
