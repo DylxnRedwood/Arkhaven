@@ -40,13 +40,19 @@ The age is associated with:
 - Large-scale destruction
 - Changes to geography and waterways
 
+The Godscar predates all currently documented peoples of Arkhaven. Modern cultures preserve interpretations and theories rather than direct knowledge of its true origin.
+
 Many churches treat this period as one of the defining moments in mortal history.
 
 ## Post-Godscar Era
 
 The Post-Godscar Era describes the long reconstruction period following the Age of Fracture.
 
-Several modern kingdoms, churches, and trade systems trace their origins to this period.
+Several later kingdoms, churches, trade systems, and settlement patterns trace their origins to this period.
+
+The era also includes the establishment or expansion of several currently recognised peoples within Arkhaven.
+
+This includes early dwarven holds in the mountains, elven archive traditions in the south-western forests, tabaxi communities in the northern rainforests, and the later human arrival known as the Arkfall.
 
 Much surviving written history begins during the later stages of this era.
 
@@ -79,6 +85,8 @@ The age was marked by:
 - Forged relics
 - Saint cults
 - Political manipulation of religion
+
+Human-led churches and states were major accelerants of the crisis, although they were not the only participants.
 
 The age eventually led to the creation of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
 
