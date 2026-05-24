@@ -100,7 +100,6 @@ Tabaxi in Arkhaven commonly learn Common Sign Language.
 This practice developed for several reasons:
 
 - Silent hunting
-- Communication across dense jungle
 - Avoiding predators
 - Coordination during travel
 - Trade with outsiders
@@ -211,28 +210,6 @@ Relations are poor with groups known for hunting, trafficking, forced labour, or
 Some human and coastal settlements have long-standing agreements with nearby tabaxi clans.
 
 Other regions are avoided entirely.
-
-## Warfare and Defence
-
-Tabaxi warfare is usually defensive, mobile, and terrain-focused.
-
-Common tactics include:
-
-- Ambush
-- Night movement
-- Canopy travel
-- Silent signalling
-- Trap use
-- Hit-and-run attacks
-- Misdirection
-- Evacuation routes
-- Rescue raids
-
-Tabaxi rarely favour direct battlefield confrontation unless forced.
-
-Their greatest military advantage is their ability to move through jungle terrain faster and more quietly than most enemies.
-
-Settlements are designed with layered escape routes rather than only fixed defences.
 
 ## Reputation in Arkhaven
 

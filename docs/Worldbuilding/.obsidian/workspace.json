@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Continents/Arkhaven.md",
+                "file": "History/Timeline of Major Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arkhaven"
+              "title": "Timeline of Major Events"
             }
           }
         ]
@@ -182,6 +182,15 @@
   },
   "active": "812666ef25654c62",
   "lastOpenFiles": [
+    "Locations/Cities/Khuldovar.md",
+    "Locations/Continents/Arkhaven.md",
+    "Locations/Ruins/Ancient Ruins.md",
+    "Races/Humans.md",
+    "Races/Tabaxi.md",
+    "Lore/Historical Figures/Edranna Vale.md",
+    "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
+    "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
+    "Lore/Historical Figures/Saint Arveth of the Open Hand.md",
     "5b048880-3946-47d6-a8ad-961aa5a45e49.png",
     "Lore/Arkhaven Events/The Green Silence.md",
     "Occupations/Inquisitor-Scriptor.md",
@@ -191,7 +200,6 @@
     "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Historical Events/The Godscar.md",
     "_Private/Materials/Veinstone.md",
-    "Locations/Cities/Khuldovar.md",
     "_Private/Materials",
     "Lore/Historical Events",
     "Locations/Cities/Khazmodan.md",
@@ -200,17 +208,10 @@
     "Lore/Historical Figures/Brother Halvek the White.md",
     "_Private/Lore/Arkhaven Events/The Green Silence.md",
     "Lore/Arkhaven Events/War of the False Saints.md",
-    "Locations/Continents/Arkhaven.md",
-    "Lore/Historical Figures/Edranna Vale.md",
-    "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
-    "Lore/Historical Figures/Saint Arveth of the Open Hand.md",
-    "Lore/Historical Figures/Maerwyn of the Silver Flame.md",
     "Lore/Arkhaven Events/The Scriptor Compact.md",
     "Lore/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Saint Arveth of the Open Hand.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Maerwyn of the Silver Flame.md",
-    "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Lord-Caliph Sered Vant.md",
-    "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Edranna Vale.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links",

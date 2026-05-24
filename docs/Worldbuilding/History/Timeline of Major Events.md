@@ -16,9 +16,6 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 ## Age of Fracture
 
 - [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) reshapes large areas of Arkhaven
-- Major migration and political collapse
-- Religious systems reorganise following the catastrophe
-- Several ancient kingdoms disappear from surviving record
 
 ## Post-Godscar Era
 
