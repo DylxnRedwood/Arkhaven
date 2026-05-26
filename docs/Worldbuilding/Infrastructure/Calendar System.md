@@ -6,7 +6,7 @@ Most modern systems used in [Arkhaven](../Locations/Continents/Arkhaven.md) now 
 
 Under this system, the first recorded year of the Green Silence is recognised as **1 GS**.
 
-The current historical period is generally understood to be slightly more than five centuries after the beginning of the event.
+The current historical period is generally understood to be slightly more than twelve centuries after the beginning of the event.
 
 ## Overview
 
