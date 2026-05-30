@@ -24,7 +24,7 @@ The Haskarn Freeholds lie between the north-western trade routes and the Vermill
 
 They have access to both the sea and a large lake, giving them fishing, shipping, and trade opportunities.
 
-The land is settled but not especially rich, with soil that is less fertile than the southern lands of the [Verdant Confederacy](The%20Verdant%20Confederacy.md) and the [Veridian March](The%20Veridian%20March.md).
+The land is settled but not especially rich, with soil that is less fertile than the southern lands of the [Verdant Confederacy](The%20Verdant%20Confederacy.md) and the [The Leridian Concord](The%20Leridian%20Concord.md).
 
 ## Culture
 

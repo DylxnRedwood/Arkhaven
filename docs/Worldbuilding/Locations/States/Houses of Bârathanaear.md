@@ -1,6 +1,6 @@
 # Houses of Bârathanaear
 
-The **Houses of Bârathanaear** are a coastal elven state south of [The Eldermarch Court](The%20Eldermarch%20Court.md), known for comfort, wealth, beauty, and political moderation.
+The **Houses of Bârathanaear** (*Home beyond the sea* in common) are a coastal elven state south of [The Eldermarch Court](The%20Eldermarch%20Court.md), known for comfort, wealth, beauty, and political moderation.
 
 Unlike their northern kin, they place less value on ancient claims of conquest and more value on prosperity, leisure, diplomacy, and quality of life.
 
