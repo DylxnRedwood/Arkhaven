@@ -2,8 +2,6 @@
 
 Arkhaven is a major continent of [Lazuril](../World/Lazuril.md).
 
-![Arkhaven Map](../../5b048880-3946-47d6-a8ad-961aa5a45e49.png)
-
 The continent is defined by extreme geographic variation, fractured religious history, large wilderness regions, human colonial expansion, and the lasting influence of ancient catastrophic events.
 
 Its best known physical feature is [The Godscar](../../Lore/Arkhaven%20Events/The%20Godscar.md), a massive system of vertical fractures, lakes, cliffs, waterways, and broken terrain that divides large areas of the continent.

@@ -1,4 +1,4 @@
-# Ages of Lazuril
+OBS# Ages of Lazuril
 
 The history of [Lazuril](../Locations/World/Lazuril.md) is commonly divided into broad historical ages used by scholars, Scriptors, churches, archive houses, and historians.
 

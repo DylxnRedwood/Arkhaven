@@ -11,14 +11,12 @@
             "id": "812666ef25654c62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "History/Timeline of Major Events.md",
-                "mode": "source",
-                "source": false
+                "file": "Arkhaven Regions.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Timeline of Major Events"
+              "icon": "lucide-image",
+              "title": "Arkhaven Regions"
             }
           }
         ]
@@ -180,12 +178,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "812666ef25654c62",
+  "active": "17719f01d043157a",
   "lastOpenFiles": [
-    "Locations/Cities/Khuldovar.md",
     "Locations/Continents/Arkhaven.md",
-    "Locations/Ruins/Ancient Ruins.md",
+    "Arkhaven States.jpg",
+    "Arkhaven Regions.jpg",
+    "Locations/Regions/The South-Western Forests.md",
+    "History/Ages of Lazuril.md",
     "Races/Humans.md",
+    "History/Timeline of Major Events.md",
+    "Locations/Cities/Khuldovar.md",
+    "Locations/Ruins/Ancient Ruins.md",
     "Races/Tabaxi.md",
     "Lore/Historical Figures/Edranna Vale.md",
     "Lore/Historical Figures/Lord-Caliph Sered Vant.md",
@@ -194,8 +197,6 @@
     "5b048880-3946-47d6-a8ad-961aa5a45e49.png",
     "Lore/Arkhaven Events/The Green Silence.md",
     "Occupations/Inquisitor-Scriptor.md",
-    "History/Timeline of Major Events.md",
-    "History/Ages of Lazuril.md",
     "Infrastructure/Calendar System.md",
     "Lore/Arkhaven Events/The Godscar.md",
     "Lore/Historical Events/The Godscar.md",
@@ -210,8 +211,6 @@
     "Lore/Arkhaven Events/War of the False Saints.md",
     "Lore/Arkhaven Events/The Scriptor Compact.md",
     "Lore/Historical Figures",
-    "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Saint Arveth of the Open Hand.md",
-    "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures/Maerwyn of the Silver Flame.md",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters/Historical Figures",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links/Characters",
     "Lore/Arkhaven Events/war_false_saints_with_npc_links",
